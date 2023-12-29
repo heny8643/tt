@@ -60,10 +60,10 @@
 {"key": "哔嘀影视","name":"🧲哔嘀影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"./XYQH/哔嘀影视.json"},      
 
 //阿里盘
- {"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
- {"key":"csp_AliPS","name":"📀盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
- {"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
- {"key":"csp_Upyunso","name":"📀UP搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
+ {"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
+ {"key":"csp_AliPS","name":"📀盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"timeout": 60,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
+ {"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"timeout": 60,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
+ {"key":"csp_Upyunso","name":"📀UP搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"timeout": 60,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
  
  //{"key":"csp_Zhaozy","name":"📀找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"yingshi$$$abcd1234"},
 // {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀木偶","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/玩偶哥哥.json"},
@@ -73,7 +73,7 @@
  //{"key": "csp_XYQHikerAL_阿里云盘网","name":"📀阿里云盘","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/阿里云盘网.json"},
  // {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/盘搜索.json"},
 
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"timeout": 60,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"}
     ],
 
     "ads": [
