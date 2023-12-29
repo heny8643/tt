@@ -1,5 +1,5 @@
-﻿{
-"spider": "./香佬.jar",
+{
+"spider": "./mf.jar",
 
   "doh": [
   {"name":"騰訊","url":"https://doh.pub/dns-query"},
@@ -40,7 +40,13 @@
   ],
     "sites": [
 {"key":"看看","name":"看看","type":3,"api":"csp_KanKan","changeable": 0,"searchable":1,"quickSearch":1,"filterable":0,"jar": "./qj.jar"},
-{"key":"996影院","name":"996","type":3,"api":"csp_Cs1369","searchable":1,"changeable":0,"timeout": 40,"jar":"./mf.jar"},
+{"key":"看看","name":"看看","type":3,"api":"csp_KanKan","changeable": 0,"searchable":1,"quickSearch":1,"filterable":0,"jar": "./qj.jar"},
+{"key":"巧技一","name":"巧技一","type":3,"api":"csp_qiao2","changeable": 0,"searchable":1,"quickSearch":1,"playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1","jar": "./qj.jar"},
+{"key":"巧技二","name":"巧技二","type":3,"api":"csp_qiao2","changeable": 0,"searchable":1,"quickSearch":1,"playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar": "./qj.jar"},
+{"key":"巧技三","name":"巧技三","type":3,"api":"csp_qiao2","changeable": 0,"searchable":1,"quickSearch":1,"playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3","jar": "./qj.jar"},
+{"key":"巧技四","name":"巧技四","type":3,"api":"csp_qiao2","changeable": 0,"searchable":1,"quickSearch":1,"playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4","jar": "./qj.jar"},
+
+{"key":"996影院","name":"996","type":3,"api":"csp_Cs1369","searchable":1,"changeable":0,"timeout": 40},
 {"key":"996","name":"996影视","type":3,"searchable":1,"changeable":0,"filterable":1,"timeout": 40,"api":"csp_XBPQ","ext":{"分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14","筛选":"1"},"jar":"./小米.jar"},
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","changeable": 1,"searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"","jar": "./qj.jar"},
 {"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
@@ -52,28 +58,30 @@
 "线路标题": "<span>&&</small>[替换:新自建.5>>耐看Ⓐ#新自建>>耐看Ⓑ#自建一>>耐看①#自建二>>耐看②#自建三>>耐看③#自建四>>耐看④#自建五>>耐看⑤#自建三.5>>耐看⓺#腾讯视频>>腾讯#优酷视频>>优酷#奇艺视频>>奇艺#芒果视频>>芒果#暴风资源>>暴风#快看资源>>快看#量子资源>>量子#非凡资源>>非凡#</span><small>>>共]+集","分类url": "https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html"},"jar": "./小米.jar"},
 {"key":"csp_xBPQ_耐看点播","name":"耐看点播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/耐看点播.json","jar": "./小米.jar"},
 {"key": "SNzy","name": "索尼资源 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","纪录片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","影视解说","伦理片","足球"]},   
-{"key":"csp_Ikanbot","name": "👾爱看","type": 3,"api": "csp_Ikanbot","searchable": 1,"changeable": 0,"quickSearch": 1,"timeout":40,"filterable": 1},
+{"key":"csp_Ikanbot","name": "👾爱看","type": 3,"api": "csp_Ikanbot","searchable": 1,"changeable": 0,"quickSearch": 1,"timeout":40,"filterable": 1,"jar": "./.jar"},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"./fan.jar"},
-
+{"key":"短劇","name":"短劇","type":3,"api":"csp_Duanju","searchable":1,"changeable":0},
 //磁力
-{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"timeout": 60,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
+{"key":"Dygang","name":"🧲电影港","type":3,"searchable":1,"changeable":0,"timeout": 60,"api":"csp_Dygang","jar": "./qj.jar"},
+{"key":"csp_JianPian","name":"🧲荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "./香佬.jar"},
+//{"key":"荐片T4","name":"荐片T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","timeout": 40,"playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+//{"key":"賤賤","name":"賤賤","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"ext":"./jianpian.json"},
 {"key": "哔嘀影视","name":"🧲哔嘀影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"./XYQH/哔嘀影视.json"},      
+{"key":"新6V","name":"🧲新6V","type":3,"api":"csp_Xb6v","searchable":1,"changeable":0,"timeout":60},
 
 //阿里盘
- {"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
- {"key":"csp_AliPS","name":"📀盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"timeout": 60,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
- {"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"timeout": 60,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
- {"key":"csp_Upyunso","name":"📀UP搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"timeout": 60,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
- 
- //{"key":"csp_Zhaozy","name":"📀找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"yingshi$$$abcd1234"},
-// {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀木偶","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/玩偶哥哥.json"},
- //{"key": "csp_XYQHikerAL_云盘资源","name":"📀云盘资源","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/云盘资源.json"},
- //{"key": "csp_XYQHikerAL_云盘资源分享","name":"📀云盘分享","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/云盘资源分享.json"},
-// {"key": "csp_XYQHikerAL_我的小站","name":"📀我的小站","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/我的小站.json"},
- //{"key": "csp_XYQHikerAL_阿里云盘网","name":"📀阿里云盘","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/阿里云盘网.json"},
- // {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/盘搜索.json"},
+{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"token":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123","filter":"./wogg.json"}},
+{"key":"盤99","name":"盤99","type":3,"api":"csp_Pan99","searchable":1,"changeable":0,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
+{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"changeable":0,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
+{"key":"雲搜","name":"雲搜","type":3,"api":"csp_UpYun","searchable":1,"changeable":0,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
+{"key":"盤搜","name":"盤搜","type":3,"api":"csp_PanSou","searchable":1,"changeable":0,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
+{"key":"紙條搜","name":"小紙條","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"changeable":0,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
+{"key":"盤搜索","name":"盤搜索","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"},
+{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123$$$dgjfff4677$$$47754356"},
 
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"timeout": 60,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"}
+
+//{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"timeout": 60,"ext":"https://alitoken.heny8643.repl.co/token?iv=123abc&key=abc123"}
     ],
 
     "ads": [
