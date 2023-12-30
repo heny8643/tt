@@ -64,7 +64,7 @@
 {"key":"csp_JianPian","name":"🧲荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "./香佬.jar"},
 {"key":"新6V","name":"🧲新6V","type":3,"api":"csp_Xb6v","searchable":1,"changeable":0,"timeout":60,"jar": "./mf.jar"},
 
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"}
 
 ],
 
