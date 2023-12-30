@@ -1,0 +1,90 @@
+﻿{
+    "urls": [
+       {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/heny8643/tt/main/qj.json",
+            "name": "综合"
+        },
+       {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/qj.json",
+            "name": "综合1"
+        },
+        
+       {
+            "url": "https://githubfd.deno.dev/heny8643/tt/main/qj.json",
+            "name": "综合2"
+        },
+        
+       {
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/heny8643/tt/main/qj.json",
+            "name": "综合3"
+        },
+        
+       {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/heny8643/tt/main/qj.json",
+            "name": "综合4"
+        },
+        
+        
+        
+       {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/heny8643/tt/main/xl.json",
+            "name": "影视"
+        },
+ 
+       {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/xl.json",
+            "name": "镜像1"
+        },
+ 
+       {
+            "url": "https://githubfd.deno.dev/heny8643/tt/main/xl.json",
+            "name": "镜像2"
+        },
+ 
+       {
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/heny8643/tt/main/xl.json",
+            "name": "镜像3"
+        },
+ 
+       {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/heny8643/tt/main/xl.json",
+            "name": "镜像4"
+        },
+ 
+      {
+            "url": "http://饭太硬.top/tv",
+            "name": "🐼饭太硬"
+        },
+ 
+        {
+            "url": "http://肥猫.live",
+            "name": "🐧肥猫"
+        },
+       {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "🦆俊于"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "🐸菜妮丝"
+        },  
+        {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "🦕道长"
+        },
+      {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "name": "🐢霜辉月明"
+        },
+        {
+//            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🦊巧技"
+        },        
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "name": "🦚月光宝盒"
+        }
+
+    ]
+}
