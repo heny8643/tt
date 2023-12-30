@@ -1,5 +1,5 @@
 {
-"spider": "./mf.jar",
+"spider": "./mf.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab",
 
 "doh": [
 {"name":"騰訊","url":"https://doh.pub/dns-query"},
