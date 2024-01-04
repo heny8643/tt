@@ -71,14 +71,15 @@
 //{"key": "哔嘀影视","name":"🧲哔嘀影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"./XYQH/哔嘀影视.json","jar":"./香佬.jar"},      
 
 //阿里盘
-{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"token":"https://www.qiaoji8.com/jar1/token.txt","filter":"./json/wogg.json"}},
-{"key":"盤99","name":"盤99","type":3,"api":"csp_Pan99","searchable":1,"changeable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"changeable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"雲搜","name":"雲搜","type":3,"api":"csp_UpYun","searchable":1,"changeable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"盤搜","name":"盤搜","type":3,"api":"csp_PanSou","searchable":1,"changeable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"紙條搜","name":"小紙條","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"changeable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"盤搜索","name":"盤搜索","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt$$$dgjfff4677$$$47754356"},
+{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"timeout":40,"ext":{"token":"https://www.qiaoji8.com/jar1/token.txt","filter":"./json/wogg.json"}},
+{"key":"csp_影视车","name":"影视车","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":40, "ext":"https://www.qiaoji8.com/jar1/token.txt$$$https://www.weixine.net/$$$null$$$0$$$./json/wogg.json"},
+{"key":"盤99","name":"盤99","type":3,"api":"csp_Pan99","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"雲搜","name":"雲搜","type":3,"api":"csp_UpYun","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"盤搜","name":"盤搜","type":3,"api":"csp_PanSou","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"紙條搜","name":"小紙條","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"盤搜索","name":"盤搜索","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt$$$dgjfff4677$$$47754356"},
 {"key":"影视配套插件","name":"影视配套插件","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/market.json"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"ext":"https://www.qiaoji8.com/jar1/token.txt"}
 
