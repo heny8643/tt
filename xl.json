@@ -72,7 +72,6 @@
 
 //阿里盘
 {"key":"玩偶","name":"玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"timeout":40,"ext":{"token":"https://www.qiaoji8.com/jar1/token.txt","filter":"./json/wogg.json"}},
-{"key":"csp_影视车","name":"影视车","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":40, "ext":"https://www.qiaoji8.com/jar1/token.txt$$$https://www.weixine.net/$$$null$$$0$$$./json/wogg.json"},
 {"key":"盤99","name":"盤99","type":3,"api":"csp_Pan99","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 {"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 {"key":"雲搜","name":"雲搜","type":3,"api":"csp_UpYun","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
