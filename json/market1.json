@@ -1,0 +1,87 @@
+﻿[
+  {
+    "name": "v7a SO",
+    "list": [
+      {
+        "name": "荐片",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/so/libjpa_armeabi_v7a.so",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+      },
+      {
+        "name": "磁力-1",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/so/libxl_stat_armeabi_v7a.so",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+      },
+      {
+        "name": "磁力-2",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/so/libxl_thunder_sdk_armeabi_v7a.so",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+      },
+      {
+        "name": "晴天",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/so/libmitv.so",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+      },
+      {
+        "name": "P2P",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/so/libp2p.so",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+      },
+      {
+        "name": "P3P",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/so/libp3p.so",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+      },
+      {
+        "name": "P4P",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/so/libp4p.so",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+      },
+      {
+        "name": "P5P",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/so/libp5p.so",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+      },
+      {
+        "name": "P6P",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/so/libp6p.so",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+      },
+      {
+        "name": "P7P",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/so/libp7p.so",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+      },
+      {
+        "name": "P8P",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/so/libp8p.so",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+      },
+      {
+        "name": "P9P",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/so/libp9p.so",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+      }
+    ]
+  },
+  {
+    "name": "v8a",
+    "list": [
+      {
+        "name": "荐片",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/so/libjpa_arm64_v8a.so",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+      },
+      {
+        "name": "磁力-1",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/so/libxl_stat_arm64_v8a.so",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+      },
+      {
+        "name": "磁力-2",
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/so/libxl_thunder_sdk_arm64_v8a.so",
+        "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png"
+      }
+    ]
+  }
+]
