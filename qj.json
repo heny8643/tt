@@ -41,7 +41,7 @@
 "sites": [
 {"key":"看看","name":"看看","type":3,"api":"csp_KanKan","changeable": 0,"searchable":1,"quickSearch":1,"filterable":0},
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","changeable": 1,"searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
-//{"key":"巧技一","name":"巧技一","type":3,"api":"csp_qiao2","changeable": 0,"searchable":1,"quickSearch":1,"playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"},
+{"key":"巧技一","name":"巧技一","type":3,"api":"csp_qiao2","changeable": 0,"searchable":1,"quickSearch":1,"playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"},
 {"key":"巧技二","name":"巧技二","type":3,"api":"csp_qiao2","changeable": 0,"searchable":1,"quickSearch":1,"playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"},
 //{"key":"巧技三","name":"巧技三","type":3,"api":"csp_qiao2","changeable": 0,"searchable":1,"quickSearch":1,"playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"},
 {"key":"巧技四","name":"巧技四","type":3,"api":"csp_qiao2","changeable": 0,"searchable":1,"quickSearch":1,"playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"},
