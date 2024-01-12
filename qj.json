@@ -1,5 +1,5 @@
 ﻿{
-"spider": "./qj.jar;md5;0111bf77b42bfb642dd8217dc6606828",
+"spider": "./qj.jar;md5;3fa4755c64ca9e819fe8133ec131f171",
 
 "doh": [
 {"name":"騰訊","url":"https://doh.pub/dns-query"},
