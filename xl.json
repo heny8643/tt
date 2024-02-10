@@ -41,13 +41,14 @@
 {"name":"海外看","hosts":["haiwaikan"],"regex":["10.333332","10.0099","10.8565","16.0599","8.1748","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175832,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175833,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.716667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}
   ],
 "sites": [
-{"key":"看看","name":"看看","type":3,"api":"csp_KanKan","changeable": 0,"searchable":1,"quickSearch":1,"filterable":0,"jar": "./qj.jar"},
+//{"key":"看看","name":"看看","type":3,"api":"csp_KanKan","changeable": 0,"searchable":1,"quickSearch":1,"filterable":0,"jar": "./qj.jar"},
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","changeable": 1,"searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"","jar": "./qj.jar"},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar": "./qj.jar"},
 {"key":"天天","name":"天天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar": "./qj.jar"},
 //{"key":"巧技一","name":"巧技一","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1","jar": "./qj24117.jar"},
 {"key":"巧技三","name":"巧技三","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3","jar": "./qj24117.jar"},
 //{"key":"巧技四","name":"巧技四","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4","jar": "./qj24117.jar"},
+{"key":"巧技五","name":"巧技五","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5","jar": "./qj24117.jar"},
 {"key": "439","name": "439","type": 1,"api": "https://49zyw.com/api.php/provide/vod/","categories": ["国产剧","短剧","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","奇幻片","灾难片","悬疑片","其他片","韩国剧","台湾剧","泰国剧","日剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日本动漫","欧美动漫","海外动漫","电影解说","体育赛事","海外剧","纪录片"]},
 {"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
 {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json","jar": "./fan.jar"},
