@@ -45,7 +45,7 @@
 //{"key":"看看","name":"看看","type":3,"api":"csp_qiao","api":"csp_KanKan","changeable": 0,"searchable":1,"quickSearch":1,"filterable":0,"jar": "./qj.jar"},
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","changeable": 1,"searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"","jar": "./qj.jar"},
 {"key":"Yingtantv1","name":"影探1","type":3,"api":"csp_Yingtantv2","searchable":1, "timeout":20,"changeable":1,"jar": "./追忆影探布蕾带自动追踪.jar"},
-{"key":"Buleitv","name":"布蕾","type":3,"api":"csp_Buleitv", "timeout":20,"searchable":1,"changeable":1,"jar": "./追忆影探布蕾带自动追踪.jar"},
+//{"key":"Buleitv","name":"布蕾","type":3,"api":"csp_Buleitv", "timeout":20,"searchable":1,"changeable":1,"jar": "./追忆影探布蕾带自动追踪.jar"},
 {"key":"Zhuiyitv","name":"追忆","type":3,"api":"csp_Zhuiyitv","searchable":1,"changeable":1,"jar": "./追忆影探布蕾带自动追踪.jar"},
 
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar": "./qj.jar"},
