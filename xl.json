@@ -28,7 +28,8 @@
 {"name":"蚂蚁","hosts":["v\\.cdnlz.*\\.com"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"農民","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
 {"name":"量子","hosts":["vip.lz","hd.lz","v.cdnlz1","v.cdnlz2","v.cdnlz"],"regex":["19.52","18.5333","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"非凡廣告","hosts":["vip.ffzy","vip.ffzyread","hd.ffzy","vip.ffzy-online3.com"],"regex":["25.0666","25.08","20.52","#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+","#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF:\\d+\\.\\d+,\\s*fc117.*\\.ts","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"非凡廣告","hosts":["vip.ffzy","vip.ffzyread","hd.ffzy","vip.ffzy-online3.com"],"regex":["25.0666","25.08","25.1","20.52","#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+","#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF:\\d+\\.\\d+,\\s*fc117.*\\.ts","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+
 {"name":"快看","hosts":["vip.kuaikan-cdn4"],"regex":["20.099"]},
 {"name":"索尼","hosts":["suonizy"],"regex":["15.26","15.33","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 
@@ -43,6 +44,10 @@
 "sites": [
 //{"key":"看看","name":"看看","type":3,"api":"csp_qiao","api":"csp_KanKan","changeable": 0,"searchable":1,"quickSearch":1,"filterable":0,"jar": "./qj.jar"},
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","changeable": 1,"searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"","jar": "./qj.jar"},
+{"key":"Yingtantv1","name":"影探1","type":3,"api":"csp_Yingtantv2","searchable":1, "timeout":20,"changeable":1,"jar": "./追忆影探布蕾带自动追踪.jar"},
+{"key":"Buleitv","name":"布蕾","type":3,"api":"csp_Buleitv", "timeout":20,"searchable":1,"changeable":1,"jar": "./追忆影探布蕾带自动追踪.jar"},
+{"key":"Zhuiyitv","name":"追忆","type":3,"api":"csp_Zhuiyitv","searchable":1,"changeable":1,"jar": "./追忆影探布蕾带自动追踪.jar"},
+
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar": "./qj.jar"},
 {"key":"天天","name":"天天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar": "./qj.jar"},
 {"key":"星星","name":"星星","type":3,"api":"csp_qiao","jar":"./qj.jar","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing"},
@@ -50,7 +55,7 @@
 //{"key":"巧技一","name":"巧技一","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1","jar": "./qj24117.jar"},
 //{"key":"巧技三","name":"巧技三","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3","jar": "./qj24117.jar"},
 //{"key":"巧技四","name":"巧技四","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4","jar": "./qj24117.jar"},
-{"key":"巧技五","name":"巧技五","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5","jar": "./qj24117.jar"},
+//{"key":"巧技五","name":"巧技五","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5","jar": "./qj24117.jar"},
 {"key": "439","name": "439","type": 1,"api": "https://49zyw.com/api.php/provide/vod/","categories": ["国产剧","短剧","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","奇幻片","灾难片","悬疑片","其他片","韩国剧","台湾剧","泰国剧","日剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日本动漫","欧美动漫","海外动漫","电影解说","体育赛事","海外剧","纪录片"]},
 {"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
 {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json","jar": "./fan.jar"},
