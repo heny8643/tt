@@ -44,16 +44,16 @@
   ],
 "sites": [
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","changeable": 1,"searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"","jar": "./qj.jar"},
+{"key":"一起看 ","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar":"./fan.jar"},
+
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar": "./qj.jar"},
 {"key":"天天","name":"天天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar": "./qj.jar"},
-{"key":"石榴","name":"石榴","api":"csp_ShiLiuDY","type":3,"jar":"./qj.jar","filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},
+
 {"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
 {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json","jar": "./fan.jar"},
 {"key":"csp_Bdys","name":"哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"timeout": 60,"filterable":1,"jar": "./香佬.jar"},
 {"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./fan.jar","ext":"https://www.czzy55.com/"},
-{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json","jar": "./fan.jar"},
 {"key":"77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
-{"key": "SNzy","name": "索尼 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","纪录片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","影视解说","伦理片","足球"]},   
 {"key":"櫻花","name":"櫻花","type":3,"api":"csp_Ying","searchable":1,"changeable":1},
 {"key":"csp_Ikanbot","name": "👾爱看","type": 3,"api": "csp_Ikanbot","searchable": 1,"changeable": 0,"quickSearch": 1,"timeout":40,"filterable": 1,"jar": "./香佬.jar"},
 
@@ -61,6 +61,13 @@
 {"key":"Dygang","name":"🧲电影港","type":3,"searchable":1,"changeable":0,"timeout": 60,"api":"csp_Dygang","jar": "./qj.jar"},
 {"key":"csp_JianPian","name":"🧲荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "./香佬.jar"},
 {"key":"新6V","name":"🧲新6V","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"changeable":0,"timeout":60},
+{"key":"MeijuMi","name":"🧲美剧迷","type":3,"api":"csp_MeijuMi","playerType":"1", "timeout": 40,"changeable":0,"jar": "./香佬.jar"},
+{"key":"csp_xpath_yinfans","name":"🧲音范丝","type":3,"api":"csp_XPath","changeable":0,"timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json","jar":"./香佬.jar"},
+
+//采集
+{"key": "SNzy","name": "索尼 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","纪录片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","影视解说","伦理片","足球"]},   
+{"key":"量子","name":"🛰️量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","playurl":"https://lziplayer.com/?url=","searchable":1,"changeable":1,"categories":["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","日本动漫","欧美动漫","国产动漫","动画片","纪录片","大陆综艺","港台综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","战争片"]},
+{"key":"T4-安柏","name":"安柏","type":4,"api":"https://tang.serv00.net/power/ub1818","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
 //阿里盘
 {"key":"玩偶","name":"玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"timeout":40,"ext":{"token":"https://www.qiaoji8.com/jar1/token.txt","filter":"./json/wogg.json"}},
@@ -71,6 +78,7 @@
 {"key":"盤搜索","name":"盤搜索","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 {"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt$$$dgjfff4677$$$47754356"},
 {"key":"影视SO","name":"影视SO下载","type":3,"api":"csp_Market","searchable":0,"changeable":0,"timeout": 300,"ext":"./json/market1.json"},
+
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"ext":"https://www.qiaoji8.com/jar1/token.txt"}
 
 ],
