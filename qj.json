@@ -66,7 +66,7 @@
 {"key":"drpy_js_低端","name":"低端[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/ddys.js"},
 {"key":"drpy_js_网飞.TV","name":"网飞.TV[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/网飞.TV.js"},
 {"key":"drpy_js_追剧迷","name":"追剧迷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/追剧迷.js"},
-{"key":"drpy_js_HDmoli","name":"HDmoli[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/HDmoli.js"},
+//{"key":"drpy_js_HDmoli","name":"HDmoli[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/HDmoli.js"},
 {"key":"drpy_js_秋霞影院","name":"秋霞影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/秋霞.js"},
 {"key":"drpy_js_哔哩影视","name":"哔哩影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/哔哩影视.js"},
 //采集
