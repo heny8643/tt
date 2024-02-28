@@ -42,7 +42,6 @@
   ],
 "sites": [
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","changeable": 1,"searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
-{"key":"Fangniu4k","name":"放牛","type":3,"api":"csp_Fangniu4k","searchable":1,"changeable":0,"jar":"./放牛娃.jar"},
 {"key":"一起看 ","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar":"./fan.jar"},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
 {"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./fan.jar","ext":"https://www.czzy55.com/"},
