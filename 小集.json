@@ -47,33 +47,14 @@
         },
  
         {
-            "url": "http://肥猫.live",
-            "name": "🐧肥猫"
-        },
-       {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "🦆俊于"
-        },
-        {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "🐸菜妮丝"
-        },  
-        {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🦕道长"
         },
-      {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
-            "name": "🐢霜辉月明"
-        },
+      
         {
 //            "url": "http://pandown.pro/tvbox/tvbox.json",
             "url": "http://cdn.qiaoji8.com/tvbox.json",
             "name": "🦊巧技"
-        },        
-        {
-            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "name": "🦚月光宝盒"
         }
 
     ]
