@@ -77,7 +77,7 @@
 {"key":"紙條搜","name":"小紙條","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 {"key":"盤搜索","name":"盤搜索","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
 {"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt$$$dgjfff4677$$$47754356"},
-{"key":"影视SO","name":"影视SO下载","type":3,"api":"csp_Market","searchable":0,"changeable":0,"timeout": 300,"ext":"./json/market1.json"},
+//{"key":"影视SO","name":"影视SO下载","type":3,"api":"csp_Market","searchable":0,"changeable":0,"timeout": 300,"ext":"./json/market1.json"},
 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"ext":"https://www.qiaoji8.com/jar1/token.txt"}
 
