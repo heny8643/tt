@@ -59,15 +59,7 @@
 {"key":"新6V","name":"🧲新6V","type":3,"api":"csp_Xb6v","searchable":1,"changeable":0,"timeout":60,"jar": "./mf.jar"},
 {"key":"MeijuMi","name":"🧲美剧迷","type":3,"api":"csp_MeijuMi","playerType":"1", "timeout": 40,"changeable":0,"jar": "./香佬.jar"},
 {"key":"csp_xpath_yinfans","name":"🧲音范丝","type":3,"api":"csp_XPath","changeable":0,"timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json","jar":"./香佬.jar"},
-//JS
-{"key":"drpy_js_网飞.TV","name":"网飞.TV[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/网飞.TV.js"},
-{"key":"drpy_js_农民","name":"农民[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/农民影视.js"},
-//{"key":"drpy_js_在线之家","name":"在线之家[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/在线之家.js"},
-//{"key":"drpy_js_厂长资源","name":"厂长资源[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/厂长资源.js"},
-{"key":"drpy_js_低端","name":"低端[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/ddys.js"},
-{"key":"drpy_js_追剧迷","name":"追剧迷[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/追剧迷.js"},
-//{"key":"drpy_js_HDmoli","name":"HDmoli[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/HDmoli.js"},
-//{"key":"drpy_js_秋霞影院","name":"秋霞影院[js]","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/js/秋霞.js"},
+
 //采集
 {"key":"量子","name":"🛰️量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","playurl":"https://lziplayer.com/?url=","searchable":1,"changeable":1,"categories":["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","日本动漫","欧美动漫","国产动漫","动画片","纪录片","大陆综艺","港台综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","战争片"]},
 {"key": "SNzy","name": "索尼资源 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","纪录片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","影视解说","伦理片","足球"]}, 
