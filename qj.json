@@ -1,5 +1,6 @@
 ﻿{
-"spider": "./qj.jar;md5;a81ee775ab56884c4f5cb932cbc2d1af",
+//"spider": "./qj.jar;md5;a81ee775ab56884c4f5cb932cbc2d1af",
+"spider": "./qj24225去弹窗.jar;md5;75da2f4a016e67f7980ad1524af06ff7",
 
 "doh": [
 {"name":"騰訊","url":"https://doh.pub/dns-query"},
@@ -41,12 +42,17 @@
 {"name":"海外看","hosts":["haiwaikan"],"regex":["10.333332","10.0099","10.8565","16.0599","8.1748","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175832,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175833,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.716667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}
   ],
 "sites": [
+{"key":"看看","name":"看看","type":3,"api":"csp_KanKan","timeout": 30,"changeable": 1,"searchable":1,"quickSearch":1,"filterable":0},
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","changeable": 1,"searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
-{"key":"一起看 ","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar":"./fan.jar"},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
-{"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./fan.jar","ext":"https://www.czzy55.com/"},
+{"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy55.com/"},
 {"key":"天天","name":"天天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
-{"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"timeout": 40,"changeable":1,"jar": "./fan.jar"},
+{"key":"热播","name":"热播","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn"},
+{"key":"追剧","name":"追剧","type":3,"api":"csp_TTian","playerType":2,"ext":"http://app.kzjtv.com"},
+
+//fan&香佬&mf
+{"key":"一起看 ","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar":"./fan.jar"},
+//{"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"timeout": 40,"changeable":1,"jar": "./fan.jar"},
 {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json","jar": "./fan.jar"},
 {"key":"csp_Bdys","name":"哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"timeout": 60,"filterable":1,"jar": "./香佬.jar"},
 {"key":"77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
