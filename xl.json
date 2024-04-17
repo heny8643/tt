@@ -100,7 +100,7 @@
     "name": "网飞",
     "type": 3,
     "api": "csp_XBPQ",    
-    "jar": "./lib/XBPQ.jar",
+    "jar": "./XBPQ.jar",
     "ext": {
         "线路数组":"<div class=\"module-tab-item&&</div>[排序:][排序:HN线路>SO线路>KK线路]",
      "线路标题":"<span>&&</small>[替换:</span><small>>>✮更新]",
@@ -108,7 +108,7 @@
         "分类": "电影$dy#剧集$juji#国产$guochanju#港剧$xianggangju#动漫$dongman#综艺$zongyi#电影解说$dyjs"
     }
 },
-{"key":"黑木","name":"黑木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1	,"jar":"./lib/XBPQ.jar"
+{"key":"黑木","name":"黑木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1	,"jar":"./XBPQ.jar"
 	,"ext": {
   "作者": "凯哥",
   "站名": "采集",
