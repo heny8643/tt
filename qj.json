@@ -96,20 +96,18 @@
     },
 {"key":"黑木","name":"黑木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑木耳.json","jar":"./XBPQ.jar"},
 {"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"./XBPQ.jar"},
-{"key":"XBPQ_BaiPiao","name":"白视","type":3,"api":"csp_XBPQ", "jar":"./XBPQ.jar",
+//{"key":"XBPQ_BaiPiao","name":"白视","type":3,"api":"csp_XBPQ", "jar":"./XBPQ.jar",
 "ext": {"地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]","分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5","分类url": "https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
 }},
   
 //fan&香佬&mf
-{"key":"一起看 ","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"timeout": 30,"changeable":0,"jar":"./fan.jar"},
-{"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"timeout": 30,"changeable":0,"jar":"./fan.jar","ext":"https://www.czzy55.com/"},
 
 //{"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"timeout": 40,"changeable":0,"jar": "./fan.jar"},
-{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","timeout": 30,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/nmys.json","jar": "./fan.jar"},
-{"key":"csp_Bdys","name":"哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"timeout": 60,"changeable":0,"filterable":1,"jar": "./香佬.jar"},
-{"key":"77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
+//{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","timeout": 30,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/nmys.json","jar": "./fan.jar"},
+//{"key":"csp_Bdys","name":"哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"timeout": 60,"changeable":0,"filterable":1,"jar": "./香佬.jar"},
+//{"key":"77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
 {"key":"櫻花","name":"櫻花","type":3,"api":"csp_Ying","searchable":1,"timeout": 30,"changeable":1,"jar": "./mf.jar"},
-{"key":"csp_Ikanbot","name": "👾爱看","type": 3,"api": "csp_Ikanbot","searchable": 1,"changeable": 1,"quickSearch": 1,"timeout":40,"filterable": 1,"jar": "./香佬.jar"},
+//{"key":"csp_Ikanbot","name": "👾爱看","type": 3,"api": "csp_Ikanbot","searchable": 1,"changeable": 1,"quickSearch": 1,"timeout":40,"filterable": 1,"jar": "./香佬.jar"},
 
 //磁力
 {"key":"csp_JianPian","name":"🧲荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "./香佬.jar"},
