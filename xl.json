@@ -114,7 +114,7 @@
 
 //fan&香佬&mf
 
-//{"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
+{"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
 //{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json","jar": "./fan.jar"},
 //{"key":"csp_Bdys","name":"哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"timeout": 60,"changeable":1,"filterable":1,"jar": "./香佬.jar"},
 {"key":"櫻花","name":"櫻花","type":3,"api":"csp_Ying","searchable":1,"timeout": 30,"changeable":1},
