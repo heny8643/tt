@@ -42,8 +42,8 @@
 {"name":"海外看","hosts":["haiwaikan"],"regex":["10.333332","10.0099","10.8565","16.0599","8.1748","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175832,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175833,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.716667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}
   ],
 "sites": [
-{"key":"看看","name":"看看","type":3,"api":"csp_KanKan","timeout": 30,"changeable": 1,"searchable":1,"quickSearch":1,"filterable":0},
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout": 30,"changeable": 1,"searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
+{"key":"看看","name":"看看","type":3,"api":"csp_KanKan","timeout": 30,"changeable": 1,"searchable":1,"quickSearch":1,"filterable":0},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
 //{"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy55.com/"},
 {"key":"天天","name":"天天","timeout": 30,"changeable": 1,"type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
