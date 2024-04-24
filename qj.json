@@ -14,8 +14,7 @@
   ],
 
 "lives": [
-{"name":"live","type":0,"timeout":20,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-{"name":"mao","type":0,"timeout":60,"playerType":1,"changeable":0,"url":"http://mywlkj.ddns.net:754/tv.php","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
+{"name":"live","type":0,"timeout":20,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
 
 ],
 
