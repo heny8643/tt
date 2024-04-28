@@ -14,8 +14,8 @@
   ],
 
 "lives": [
-{"name":"live","type":0,"timeout":20,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
-
+{"name":"live","type":0,"timeout":20,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+{"name":"范明明V6","type":0,"timeout":100,"playerType":1,"changeable":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
 ],
 
 "rules": [
@@ -108,17 +108,11 @@
     }
 },
 
-{"key":"XBPQ_BaiPiao","name":"白视","type":3,"api":"csp_XBPQ", "jar":"./XBPQ.jar",
-			"ext": {
-				"地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
-				"分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
-				"分类url": "https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-			}
-		},
 {"key":"黑木","name":"黑木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑木耳.json","jar":"./XBPQ.jar"},
 {"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"./XBPQ.jar"},
 
 //fan&香佬&mf
+{"key":"白嫖","name":"白饭","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar": "./fan.jar"},
 {"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
 {"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"timeout": 40,"changeable":0,"jar": "./fan.jar"},
 //{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","timeout": 30,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/nmys.json","jar": "./fan.jar"},
@@ -128,7 +122,7 @@
 //{"key":"csp_Ikanbot","name": "👾爱看","type": 3,"api": "csp_Ikanbot","searchable": 1,"changeable": 1,"quickSearch": 1,"timeout":40,"filterable": 1,"jar": "./香佬.jar"},
 
 //磁力
-{"key":"csp_JianPian","name":"🧲荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "./香佬.jar"},
+{"key":"csp_JianPian","name":"🧲荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"http://api2.rinhome.com","jar": "./香佬.jar"},
 {"key":"Dygang","name":"🧲电影港","type":3,"searchable":1,"changeable":0,"timeout": 60,"api":"csp_Dygang"},
 {"key":"新6V","name":"🧲新6V","type":3,"api":"csp_Xb6v","searchable":1,"changeable":0,"timeout":60,"jar": "./mf.jar"},
 {"key":"MeijuMi","name":"🧲美剧迷","type":3,"api":"csp_MeijuMi","playerType":"1", "timeout": 40,"changeable":0,"jar": "./香佬.jar"},
