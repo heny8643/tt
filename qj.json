@@ -42,13 +42,13 @@
 {"name":"海外看","hosts":["haiwaikan"],"regex":["10.333332","10.0099","10.8565","16.0599","8.1748","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175832,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9.175833,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.716667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}
   ],
 "sites": [
-{"key":"看看","name":"看看","type":3,"api":"csp_KanKan","timeout": 30,"changeable": 1,"searchable":1,"quickSearch":1,"filterable":0},
-{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout": 30,"changeable": 1,"searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
+{"key":"看看","name":"看看","type":3,"api":"csp_KanKan","timeout": 60,"changeable": 1,"searchable":1,"quickSearch":1,"filterable":0},
+{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout": 60,"changeable": 1,"searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
 //{"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy55.com/"},
-{"key":"天天","name":"天天","timeout": 30,"changeable": 1,"type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
-{"key":"热播","name":"热播","timeout": 30,"changeable": 1,"type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn"},
-{"key":"追剧","name":"追剧","timeout": 30,"changeable": 1,"type":3,"api":"csp_TTian","playerType":2,"ext":"http://app.kzjtv.com"},
+{"key":"天天","name":"天天","timeout": 60,"changeable": 1,"type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
+{"key":"热播","name":"热播","timeout": 60,"changeable": 1,"type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn"},
+{"key":"追剧","name":"追剧","timeout": 60,"changeable": 1,"type":3,"api":"csp_TTian","playerType":2,"ext":"http://app.kzjtv.com"},
 //XBPQ
 { 
       "key": "csp_xBPQ", 
@@ -57,6 +57,7 @@
       "api": "csp_XBPQ", 
       "searchable": 1, 
       "quickSearch": 1, 
+      "timeout": 60,
       "filterable": 0, 
       "ext": {"分类": "国产剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧", 
   "分类值": "14&22&26&36&25&30&23&69&15&16&62", 
@@ -98,6 +99,7 @@
     "key": "wangfei",
     "name": "网飞",
     "type": 3,
+    "timeout": 60,
     "api": "csp_XBPQ",    
     "jar": "./XBPQ.jar",
     "ext": {
@@ -108,17 +110,17 @@
     }
 },
 
-{"key":"黑木","name":"黑木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑木耳.json","jar":"./XBPQ.jar"},
-{"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"./XBPQ.jar"},
+{"key":"黑木","name":"黑木","type":3,"api":"csp_XBPQ","timeout": 60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑木耳.json","jar":"./XBPQ.jar"},
+{"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","timeout": 60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"./XBPQ.jar"},
 
 //fan&香佬&mf
-{"key":"白嫖","name":"白饭","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar": "./fan.jar"},
-{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
-{"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"timeout": 40,"changeable":0,"jar": "./fan.jar"},
-//{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","timeout": 30,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/nmys.json","jar": "./fan.jar"},
+{"key":"白嫖","name":"白饭","type":3,"api":"csp_BaiPiao","playerType":2,"timeout": 60,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar": "./fan.jar"},
+{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","timeout": 60,"searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
+{"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","timeout": 60,"searchable":1,"quickSearch":1,"timeout": 40,"changeable":0,"jar": "./fan.jar"},
+//{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","timeout": 60,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/nmys.json","jar": "./fan.jar"},
 //{"key":"csp_Bdys","name":"哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"timeout": 60,"changeable":0,"filterable":1,"jar": "./香佬.jar"},
 //{"key":"77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
-{"key":"櫻花","name":"櫻花","type":3,"api":"csp_Ying","searchable":1,"timeout": 30,"changeable":1,"jar": "./mf.jar"},
+{"key":"櫻花","name":"櫻花","type":3,"api":"csp_Ying","searchable":1,"timeout": 60,"changeable":1,"jar": "./mf.jar"},
 //{"key":"csp_Ikanbot","name": "👾爱看","type": 3,"api": "csp_Ikanbot","searchable": 1,"changeable": 1,"quickSearch": 1,"timeout":40,"filterable": 1,"jar": "./香佬.jar"},
 
 //磁力
@@ -129,11 +131,11 @@
 {"key":"csp_xpath_yinfans","name":"🧲音范丝","type":3,"api":"csp_XPath","changeable":0,"timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json","jar":"./香佬.jar"},
 
 //采集
-{"key":"量子","name":"🛰️量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","playurl":"https://lziplayer.com/?url=","searchable":1,"changeable":1,"categories":["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","日本动漫","欧美动漫","国产动漫","动画片","纪录片","大陆综艺","港台综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","战争片"]},
-{"key": "SNzy","name": "索尼资源 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","纪录片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","影视解说","伦理片","足球"]}, 
-{"key":"索尼","name":"索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},  
+{"key":"量子","name":"🛰️量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","playurl":"https://lziplayer.com/?url=","timeout": 60,"searchable":1,"changeable":1,"categories":["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","日本动漫","欧美动漫","国产动漫","动画片","纪录片","大陆综艺","港台综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","战争片"]},
+{"key": "SNzy","name": "索尼资源 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"timeout": 60,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","纪录片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","影视解说","伦理片","足球"]}, 
+{"key":"索尼","name":"索尼","type":1,"timeout": 60,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},  
 
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"}
+{"key":"push_agent","name":"推送","type":3,"timeout": 60,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.qiaoji8.com/jar1/token.txt"}
 
 ],
 
