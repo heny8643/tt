@@ -92,14 +92,14 @@
   "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad", 
   "免嗅": "0" 
 }, 
-      "jar": "./XBPQ.jar"
+      "jar": "./小米.jar"
     },
 {
     "key": "wangfei",
     "name": "网飞",
     "type": 3,
     "api": "csp_XBPQ",    
-    "jar": "./XBPQ.jar",
+    "jar": "./小米.jar",
     "ext": {
         "线路数组":"<div class=\"module-tab-item&&</div>[排序:][排序:HN线路>SO线路>KK线路]",
      "线路标题":"<span>&&</small>[替换:</span><small>>>✮更新]",
@@ -107,12 +107,12 @@
         "分类": "电影$dy#剧集$juji#国产$guochanju#港剧$xianggangju#动漫$dongman#综艺$zongyi#电影解说$dyjs"
     }
 },
-{"key":"白嫖","name":"白饭","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar": "./fan.jar"},
 
-{"key":"黑木","name":"黑木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑木耳.json","jar":"./XBPQ.jar"},
-{"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"./XBPQ.jar"},
+{"key":"黑木","name":"黑木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑木耳.json","jar":"./小米.jar"},
+{"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"./小米.jar"},
 
 //fan&香佬&mf
+{"key":"白嫖","name":"白饭","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar": "./fan.jar"},
 {"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
 {"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
 //{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/nmys.json","jar": "./fan.jar"},
