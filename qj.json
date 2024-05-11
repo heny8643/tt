@@ -114,7 +114,6 @@
 {"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","timeout": 60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"./小米.jar"},
 
 //fan&香佬&mf
-{"key":"白嫖","name":"白饭","type":3,"api":"csp_BaiPiao","playerType":2,"timeout": 60,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar": "./fan.jar"},
 {"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","timeout": 60,"searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
 {"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","timeout": 60,"searchable":1,"quickSearch":1,"timeout": 40,"changeable":0,"jar": "./fan.jar"},
 //{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","timeout": 60,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/nmys.json","jar": "./fan.jar"},
