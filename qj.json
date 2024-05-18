@@ -89,7 +89,7 @@
     },
 
 //{"key":"看看","name":"看看","type":3,"api":"csp_KanKan","timeout": 60,"changeable": 1,"searchable":1,"quickSearch":1,"filterable":0},
-{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout": 60,"changeable": 1,"searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
+//{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout": 60,"changeable": 1,"searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
 //{"key":"Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy55.com/"},
 {"key":"天天","name":"天天","timeout": 60,"changeable": 1,"type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
@@ -116,8 +116,12 @@
 {"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","timeout": 60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"./小米.jar"},
 
 //fan&香佬&mf
-//{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","timeout": 60,"searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
+{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","timeout": 60,"searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
 {"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","timeout": 60,"searchable":1,"quickSearch":1,"timeout": 40,"changeable":0,"jar": "./fan.jar"},
+{"key":"视觉","name":"视觉","type":3,"api":"csp_Xinsj","timeout":30,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/","jar":"./fan.jar"},
+{"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"jar":"./fan.jar"},
+{"key":"厂长","name":"📔厂长","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czzy.top/","jar":"./fan.jar"},
+{"key":"糯米","name":"🍙糯米┃秒播","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/nmys.json","jar":"./fan.jar"},
 //{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","timeout": 60,"searchable":1,"quickSearch":1,"changeable":0,"ext":"./json/nmys.json","jar": "./fan.jar"},
 //{"key":"csp_Bdys","name":"哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"timeout": 60,"changeable":0,"filterable":1,"jar": "./香佬.jar"},
 //{"key":"77","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar": "./fan.jar"},
