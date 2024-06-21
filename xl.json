@@ -14,7 +14,6 @@
 
 "lives": [
 {"name":"live","type":0,"timeout":20,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-{"name":"xsjie","type":0,"timeout": 60,"changeable":0,"playerType":2,"url":"https://histar.zapi.us.kg/?list","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 {"name":"ou_yang","type":0,"timeout":60,"changeable":0,"url":"http://oy.oyxx-1.eu.org/p3p.php","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 {"name":"范明明V6","type":0,"timeout":100,"playerType":1,"changeable":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
  ],
