@@ -60,58 +60,22 @@
 {"key":"热播","name":"热播","type":3,"api":"csp_TTian","timeout": 30,"changeable": 1,"playerType":2,"ext":"http://v.rbotv.cn","jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
 {"key":"追剧","name":"追剧","type":3,"api":"csp_TTian","timeout": 30,"changeable": 1,"playerType":2,"ext":"http://app.kzjtv.com","jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
 
-//XBPQ
-{
-    "key": "wangfei",
-    "name": "网飞",
-    "type": 3,
-    "api": "csp_XBPQ",    
-    "jar": "./小米.jar",
-    "ext": {
-        "线路数组":"<div class=\"module-tab-item&&</div>[排序:][排序:HN线路>SO线路>KK线路]",
-     "线路标题":"<span>&&</small>[替换:</span><small>>>✮更新]",
-        "分类url": "https://www.wangfei.live/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$dy#剧集$juji#国产$guochanju#港剧$xianggangju#动漫$dongman#综艺$zongyi#电影解说$dyjs"
-    }
-},
-
-{"key":"黑木","name":"黑木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑木耳.json","jar":"./小米.jar"},
-{"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"./小米.jar"},
+//{"key":"黑木","name":"黑木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑木耳.json","jar":"./小米.jar"},
+//{"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"./小米.jar"},
 
 //磁力
 {"key":"Dygang","name":"🧲电影港","type":3,"searchable":1,"changeable":0,"timeout": 60,"api":"csp_Dygang","jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
 {"key":"csp_JianPian","name":"🧲荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"http://api2.rinhome.com","jar": "./香佬.jar"},
-{"key":"新6V","name":"🧲新6V","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":1,"changeable":0,"timeout":60},
-{"key":"MeijuMi","name":"🧲美剧迷","type":3,"api":"csp_MeijuMi","playerType":"1", "timeout": 40,"changeable":0,"jar": "./香佬.jar"},
 {"key":"csp_xpath_yinfans","name":"🧲音范丝","type":3,"api":"csp_XPath","changeable":0,"timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json","jar":"./香佬.jar"},
 
 //采集
 {"key": "SNzy","name": "索尼 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","纪录片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","影视解说","伦理片","足球"]},   
 {"key":"量子","name":"🛰️量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","playurl":"https://lziplayer.com/?url=","searchable":1,"changeable":1,"categories":["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","日本动漫","欧美动漫","国产动漫","动画片","纪录片","大陆综艺","港台综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","战争片"]},
 
-//阿里
-{"key":"玩偶","name":"👽玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
-{"key":"米搜","name":"🦋米搜","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}},
-{"key":"夸搜","name":"🐌夸搜","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}},
-{"key":"YiSo","name":"😹易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
-{"key":"PanSou","name":"🦊盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
-{"key":"UpYun","name":"😻Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
-{"key":"PanSearch","name":"🙀盘Se","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}},
 {"key":"Bili","name":"🅱哔哔┃合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"},
 {"key":"Biliych","name":"🅱明星┃演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"},
 {"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0}
-
-//{"key":"玩偶","name":"玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"timeout":40,"ext":{"token":"https://www.qiaoji8.com/jar1/token.txt","filter":"./json/wogg.json"}},
-//{"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-//{"key":"雲搜","name":"雲搜","type":3,"api":"csp_UpYun","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-//{"key":"盤搜","name":"盤搜","type":3,"api":"csp_PanSou","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-//{"key":"紙條搜","name":"小紙條","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-//{"key":"盤搜索","name":"盤搜索","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
-//{"key":"找資源","name":"找資源","type":3,"api":"csp_Zhaozy","searchable":1,"changeable":0,"timeout":40,"ext":"https://www.qiaoji8.com/jar1/token.txt$$$dgjfff4677$$$47754356"},
-//{"key":"影视SO","name":"影视SO下载","type":3,"api":"csp_Market","searchable":0,"changeable":0,"timeout": 300,"ext":"./json/market1.json"},
-
-//{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"ext":"https://www.qiaoji8.com/jar1/token.txt"}
 
 ],
 
