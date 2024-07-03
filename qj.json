@@ -69,7 +69,6 @@
 {"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar"},
 {"key":"茶狐影视","name":"茶杯狐","type":3,"api":"csp_XBPQ","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/dongchenliu/liu/raw/master/lib/jqqys.json"},
 //短剧
-{"key":"河马短剧","name":"河马短剧","type":3,"api":"csp_Wexduanjuhema","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/jiazi.jar","searchable":1,"changeable":1},
 {"key":"短剧天堂","name":"短剧天堂","type":3,"api":"csp_XBPQ","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar","playerType":1,"searchable":1,"changeable":1,"ext":"https://gitee.com/dongchenliu/liu/raw/master/lib/duanjutt.json"},
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/djuzl.jar","searchable":1,"quickSearch":0,"filterable":0},
 
