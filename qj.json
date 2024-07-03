@@ -64,6 +64,15 @@
 //{"key":"黑木","name":"黑木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑木耳.json","jar":"./小米.jar"},
 //{"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"./小米.jar"},
 
+//XBPQ
+{"key":"黑木","name":"黑木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑木耳.json","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar"},
+{"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar"},
+{"key":"茶狐影视","name":"茶杯狐","type":3,"api":"csp_XBPQ","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/dongchenliu/liu/raw/master/lib/jqqys.json"},
+//短剧
+{"key":"河马短剧","name":"河马短剧","type":3,"api":"csp_Wexduanjuhema","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/jiazi.jar","searchable":1,"changeable":1},
+{"key":"短剧天堂","name":"短剧天堂","type":3,"api":"csp_XBPQ","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar","playerType":1,"searchable":1,"changeable":1,"ext":"https://gitee.com/dongchenliu/liu/raw/master/lib/duanjutt.json"},
+{"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/djuzl.jar","searchable":1,"quickSearch":0,"filterable":0},
+
 //磁力
 {"key":"Dygang","name":"🧲电影港","type":3,"searchable":1,"changeable":0,"timeout": 60,"api":"csp_Dygang","jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
 {"key":"csp_JianPian","name":"🧲荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"http://api2.rinhome.com","jar": "https://gitee.com/heny2099/tt/raw/master/香佬.jar"},
