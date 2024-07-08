@@ -1,6 +1,6 @@
 
 {
-"spider": "https://gitee.com/heny2099/tt/raw/master/fan.jar;md5;39536019b1427f62b535f028d161d43a",
+"spider": "https://cik03-cos.7moor-fs1.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/ceb66949-23e5-4a74-bd63-779358ecebf2/2024-07-08/2024-07-08_11:41:04/1720410064775/20489632/fan.txt?fileName=fan.txt?fileSize=664%20KB&attname=fan.txt",
 
 "doh": [
 {"name":"騰訊","url":"https://doh.pub/dns-query"},
@@ -14,9 +14,9 @@
   ],
 
 "lives": [
-{"name":"live","type":0,"timeout":20,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-{"name":"oh","type":0,"timeout":40,"changeable":0,"url":"http://heny8643.serv00.net/ouhua0703.php","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-{"name":"ou_yang","type":0,"timeout":60,"changeable":0,"url":"http://oy.oyxx-1.eu.org/p3p.php","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+{"name":"live","type":0,"timeout":20,"playerType":2,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+{"name":"oh","type":0,"timeout":40,"playerType":2,"changeable":0,"url":"http://heny8643.serv00.net/ouhua0703.php","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+{"name":"ou_yang","type":0,"timeout":60,"playerType":2,"changeable":0,"url":"http://oy.oyxx-1.eu.org/p3p.php","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 {"name":"Gather","type":0,"timeout": 60,"playerType":2,"url":"https://yang-1989.eu.org/m3u/Gather","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 
 {"name":"范明明V6","type":0,"timeout":100,"playerType":1,"changeable":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
