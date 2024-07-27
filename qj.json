@@ -60,7 +60,6 @@
   
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","timeout": 30,"changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heny2099/tt/raw/master/qj24225去弹窗.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 {"key":"天天","name":"天天","type":3,"api":"csp_TTian","timeout": 30,"changeable": 1,"playerType":1,"ext":"http://op.ysdqjs.cn","jar": "https://gitee.com/heny2099/tt/raw/master/qj24225去弹窗.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
-{"key":"追剧","name":"追剧","type":3,"api":"csp_TTian","timeout": 30,"changeable": 1,"playerType":2,"ext":"http://app.kzjtv.com","jar": "https://gitee.com/heny2099/tt/raw/master/qj24225去弹窗.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 
 //{"key":"黑木","name":"黑木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑木耳.json","jar":"./小米.jar"},
 //{"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"./小米.jar"},
