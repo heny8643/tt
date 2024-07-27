@@ -52,15 +52,14 @@
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout": 15,"changeable": 1,"searchable":1,"quickSearch":1,"playerType":2},
 {"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"视觉","name":"视觉","type":3,"api":"csp_Xinsj","timeout":30,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"},
 {"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"📔厂长","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czzy.top/"},
 {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
   
-{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","timeout": 30,"changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
-{"key":"天天","name":"天天","type":3,"api":"csp_TTian","timeout": 30,"changeable": 1,"playerType":1,"ext":"http://op.ysdqjs.cn","jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
-{"key":"热播","name":"热播","type":3,"api":"csp_TTian","timeout": 30,"changeable": 1,"playerType":2,"ext":"http://v.rbotv.cn","jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
-{"key":"追剧","name":"追剧","type":3,"api":"csp_TTian","timeout": 30,"changeable": 1,"playerType":2,"ext":"http://app.kzjtv.com","jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
+//{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","timeout": 30,"changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
+//{"key":"天天","name":"天天","type":3,"api":"csp_TTian","timeout": 30,"changeable": 1,"playerType":1,"ext":"http://op.ysdqjs.cn","jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
+//{"key":"热播","name":"热播","type":3,"api":"csp_TTian","timeout": 30,"changeable": 1,"playerType":2,"ext":"http://v.rbotv.cn","jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
+//{"key":"追剧","name":"追剧","type":3,"api":"csp_TTian","timeout": 30,"changeable": 1,"playerType":2,"ext":"http://app.kzjtv.com","jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
 
 //{"key":"黑木","name":"黑木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑木耳.json","jar":"./小米.jar"},
 //{"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"./小米.jar"},
@@ -70,7 +69,6 @@
 {"key":"天龙","name":"天龙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天龙影视.json","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar"},
 {"key":"茶狐影视","name":"茶杯狐","type":3,"api":"csp_XBPQ","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/dongchenliu/liu/raw/master/lib/jqqys.json"},
 //短剧
-{"key":"短剧天堂","name":"短剧天堂","type":3,"api":"csp_XBPQ","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar","playerType":1,"searchable":1,"changeable":1,"ext":"https://gitee.com/dongchenliu/liu/raw/master/lib/duanjutt.json"},
 {"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/djuzl.jar","searchable":1,"quickSearch":0,"filterable":0},
 
 //磁力
