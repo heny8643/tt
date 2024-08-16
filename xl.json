@@ -1,7 +1,7 @@
 
 {
 //"spider":"https://cik03-cos.7moor-fs1.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/ceb66949-23e5-4a74-bd63-779358ecebf2/2024-07-08/2024-07-08_11:41:04/1720410064775/20489632/fan.txt?fileName=fan.txt?fileSize=664%20KB&attname=fan.txt;md5;222dfa8b32178a77b4619a88e256a000",
-"spider": "https://gitee.com/heny2099/tt/raw/master/fan.jar;md5;fc1b4f17aa8de6068500090f33de88b9",
+"spider": "https://gitee.com/heny2099/tt/raw/master/fan.jar;md5;2d88ca12b97435501ba22ca12ce03d92",
 "doh": [
 {"name":"騰訊","url":"https://doh.pub/dns-query"},
 {"name":"阿里","url":"https://dns.alidns.com/dns-query"},
