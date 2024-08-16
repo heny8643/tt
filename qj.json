@@ -1,8 +1,8 @@
 
 {
-//"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720512054891/fan.txt;md5;fc1b4f17aa8de6068500090f33de88b9",
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721554716065/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
 
+//"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721554716065/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723750621533/fan.txt;md5;2d88ca12b97435501ba22ca12ce03d92",
 "doh": [
 {"name":"騰訊","url":"https://doh.pub/dns-query"},
 {"name":"阿里","url":"https://dns.alidns.com/dns-query"},
