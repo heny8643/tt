@@ -1,18 +1,20 @@
 ﻿{
     "urls": [
           
-       {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/heny8643/tt/main/qj.json",
-            "name": "综合1"
-        },
+       
        {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/qj.json",
-            "name": "综合2"
+            "name": "综合"
         },
         
        {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/heny8643/tt/main/qj.json",
-            "name": "综合3"
+            "name": "综合1"
+        },
+ 
+       {
+            "url": "https://githubfd.deno.dev/heny8643/tt/main/qj.json",
+            "name": "综合2"
         },
  
  
@@ -21,20 +23,15 @@
             "name": "镜像"
         },
  
-       {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/heny8643/tt/main/xl.json",
-            "name": "镜像1"
-        },       
- 
 
        {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/xl.json",
-            "name": "镜像2"
+            "name": "镜像1"
         },
         
        {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/heny8643/tt/main/xl.json",
-            "name": "影视3"
+            "name": "影视2"
         },
  
  
