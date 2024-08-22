@@ -7,11 +7,11 @@
      ],
      
      "sites": [
-{"key":"csp_xml_ikun","name":"爱坤采集","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["国产剧","韩国剧","泰国剧","欧美剧","香港剧","台湾剧","日本剧","海外剧","国产动漫","日韩动漫","欧美动漫","大陆综艺","港台综艺","日韩综艺","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","犯罪片","惊悚片","古装片","灾难片","历史片","其他片","悬疑片","奇幻片","动画片","欧美综艺"]},
+{"key":"csp_xml_ikun","name":"影视","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["国产剧","韩国剧","泰国剧","欧美剧","香港剧","台湾剧","日本剧","海外剧","国产动漫","日韩动漫","欧美动漫","大陆综艺","港台综艺","日韩综艺","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","犯罪片","惊悚片","古装片","灾难片","历史片","其他片","悬疑片","奇幻片","动画片","欧美综艺"]},
 
-{"key":"网盘配置","name":"网盘及彈幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/TVbox_VLESS/lib/tokenm.json"},
-{"key":"YT","name":"YT新闻","type":3,"api":"csp_Youtube","searchable":1,"timeout":60,"playerType":"2","quickSearch":1,"filterable":1,"changeable":0,"ext":{"type":"新闻直播#香港新闻#凤凰卫视#风景8K#4K#HDR#脱口秀#体育#纪录片#美食#风光#歌曲#合辑#相声#儿童#DJ歌曲超清#帕梅拉#太极拳#广场舞#演唱会#相声小品超清#动物世界","proxy":"127.0.0.1:10072"},"style":{"type":"rect","ratio":1.5}},
-{"key":"Youtube","name":"Youtube","type":3,"api":"csp_Youtube","searchable":0,"timeout":40,"playerType":"2","quickSearch":0,"filterable":1,"changeable":0,"ext":{"json":"./yb.json","proxy":"socks5://127.0.0.1:10072","codecs":""},"style":{"type":"rect","ratio":1.5}},
+{"key":"配置","name":"配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/TVbox_VLESS/lib/tokenm.json"},
+{"key":"YB","name":"YB","type":3,"api":"csp_Youtube","searchable":1,"timeout":60,"playerType":"2","quickSearch":1,"filterable":1,"changeable":0,"ext":{"type":"新闻直播#香港新闻#凤凰卫视#风景8K#4K#HDR#脱口秀#体育#纪录片#美食#风光#歌曲#合辑#相声#儿童#DJ歌曲超清#帕梅拉#太极拳#广场舞#演唱会#相声小品超清#动物世界","proxy":"127.0.0.1:10072"},"style":{"type":"rect","ratio":1.5}},
+{"key":"YB1","name":"Youtube","type":3,"api":"csp_Youtube","searchable":0,"timeout":40,"playerType":"2","quickSearch":0,"filterable":1,"changeable":0,"ext":{"json":"./yb.json","proxy":"socks5://127.0.0.1:10072","codecs":""},"style":{"type":"rect","ratio":1.5}},
 
 {"key":"push_agent","name":"阿里夸克推送","type":3,"api":"csp_Push","timeout":40,"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/TVbox_VLESS/lib/tokenm.json"}
   ],
