@@ -2,8 +2,9 @@
 {
 
 //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721554716065/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723750621533/fan.txt;md5;2d88ca12b97435501ba22ca12ce03d92",
-"doh": [
+//"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723750621533/fan.txt;md5;2d88ca12b97435501ba22ca12ce03d92",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725272748516/fan.txt;md5;8b9bad173e91b9ab82fddb7d4390b73a",
+  "doh": [
 {"name":"騰訊","url":"https://doh.pub/dns-query"},
 {"name":"阿里","url":"https://dns.alidns.com/dns-query"},
 {"name":"360","url":"https://doh.360.cn/dns-query"},
@@ -16,8 +17,7 @@
 
 "lives": [
 {"name":"live","type":0,"timeout":20,"playerType":2,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-//{"name":"oh","type":0,"timeout":40,"playerType":2,"changeable":0,"url":"http://heny8643.serv00.net/ouhua0703.php","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-//{"name":"ou_yang","type":0,"timeout":60,"playerType":2,"changeable":0,"url":"http://oy.oyxx-1.eu.org/p3p.php","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+{"name":"oh","type":0,"timeout":40,"playerType":2,"changeable":0,"url":"http://heny8643.serv00.net/ouhua0703.php","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 {"name":"Gather","type":0,"timeout": 60,"playerType":2,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 
 {"name":"范明明V6","type":0,"timeout":100,"playerType":1,"changeable":0,"url":"http://heny8643.serv00.net/github.php?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
@@ -51,7 +51,7 @@
 "sites": [
  //fan   		
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout": 15,"changeable": 1,"searchable":1,"quickSearch":1,"playerType":2},
-{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
+//{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"📔厂长","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czzy.top/"},
