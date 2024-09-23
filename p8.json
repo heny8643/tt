@@ -97,12 +97,10 @@
       "outbounds": [
         "auto",
         "direct",
-        "射手座#720",
-        "射手座#920",
-        "射手座#839",
-        "射手座#921",
+        "射手座#41042",
+        "射手座#40595",
         "射手座#805",
-        "射手座#695"
+        "射手座#694"
       ]
     },
     {
@@ -350,24 +348,20 @@
       "tag": "Others",
       "type": "selector",
       "outbounds": [
-        "射手座#720",
-        "射手座#920",
-        "射手座#839",
-        "射手座#921",
+        "射手座#41042",
+        "射手座#40595",
         "射手座#805",
-        "射手座#695"
+        "射手座#694"
       ]
     },
     {
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "射手座#720",
-        "射手座#920",
-        "射手座#839",
-        "射手座#921",
+        "射手座#41042",
+        "射手座#40595",
         "射手座#805",
-        "射手座#695"
+        "射手座#694"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -386,40 +380,20 @@
       "tag": "block"
     },
     {
-      "tag": "射手座#720",
+      "tag": "射手座#41042",
       "type": "vmess",
-      "server": "183.238.90.3",
-      "server_port": 35576,
+      "server": "183.237.20.158",
+      "server_port": 41042,
       "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
       "security": "auto",
       "alter_id": 64,
       "packet_encoding": "xudp"
     },
     {
-      "tag": "射手座#920",
+      "tag": "射手座#40595",
       "type": "vmess",
-      "server": "183.237.84.51",
-      "server_port": 31002,
-      "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-      "security": "auto",
-      "alter_id": 64,
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "射手座#839",
-      "type": "vmess",
-      "server": "183.238.90.3",
-      "server_port": 43920,
-      "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
-      "security": "auto",
-      "alter_id": 64,
-      "packet_encoding": "xudp"
-    },
-    {
-      "tag": "射手座#921",
-      "type": "vmess",
-      "server": "183.237.84.51",
-      "server_port": 50902,
+      "server": "183.237.20.158",
+      "server_port": 40595,
       "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
       "security": "auto",
       "alter_id": 64,
@@ -436,10 +410,10 @@
       "packet_encoding": "xudp"
     },
     {
-      "tag": "射手座#695",
+      "tag": "射手座#694",
       "type": "vmess",
       "server": "120.232.153.8",
-      "server_port": 54629,
+      "server_port": 40944,
       "uuid": "418048af-a293-4b99-9b0c-98ca3580dd24",
       "security": "auto",
       "alter_id": 64,
@@ -800,4 +774,4 @@
       }
     ]
   }
-}
+    }
