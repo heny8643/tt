@@ -1,7 +1,9 @@
 
 {
-"spider": "https://gitee.com/heny2099/tt/raw/master/fan.jar;md5;3d161697458ecbcd2651a749db761ba1",
-"doh": [
+//"spider": "https://gitee.com/heny2099/tt/raw/master/fan.jar;md5;3d161697458ecbcd2651a749db761ba1",
+"spider": "./fan.jar;md5;3d161697458ecbcd2651a749db761ba1",
+
+  "doh": [
 {"name":"騰訊","url":"https://doh.pub/dns-query"},
 {"name":"阿里","url":"https://dns.alidns.com/dns-query"},
 {"name":"360","url":"https://doh.360.cn/dns-query"},
