@@ -1,7 +1,6 @@
 
 {
-//"spider":"https://cik03-cos.7moor-fs1.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/ceb66949-23e5-4a74-bd63-779358ecebf2/2024-07-08/2024-07-08_11:41:04/1720410064775/20489632/fan.txt?fileName=fan.txt?fileSize=664%20KB&attname=fan.txt;md5;222dfa8b32178a77b4619a88e256a000",
-"spider": "https://gitee.com/heny2099/tt/raw/master/fan.jar;md5;5769450f1eccd0c8dc347327736e870a",
+"spider": "https://gitee.com/heny2099/tt/raw/master/fan.jar;md5;3d161697458ecbcd2651a749db761ba1",
 "doh": [
 {"name":"騰訊","url":"https://doh.pub/dns-query"},
 {"name":"阿里","url":"https://dns.alidns.com/dns-query"},
@@ -57,10 +56,10 @@
 {"key":"厂长","name":"📔厂长","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czzy.top/"},
 {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"原创","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"糯米","name":"🍓糯米","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+//{"key":"糯米","name":"🍓糯米","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},  
-//{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","timeout": 30,"changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heny2099/tt/raw/master/qj24225去弹窗.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
-{"key":"天天","name":"天天","type":3,"api":"csp_TTian","timeout": 30,"changeable": 1,"playerType":1,"ext":"http://op.ysdqjs.cn","jar": "https://gitee.com/heny2099/tt/raw/master/qj24225去弹窗.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
+//{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heny2099/tt/raw/master/qj24225去弹窗.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
+{"key":"天天","name":"天天","type":3,"api":"csp_TTian","changeable": 1,"playerType":1,"ext":"http://op.ysdqjs.cn","jar": "https://gitee.com/heny2099/tt/raw/master/qj24225去弹窗.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 
 //XBPQ
 //{"key":"黑木","name":"黑木","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑木耳.json","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar"},
