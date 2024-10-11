@@ -1,9 +1,10 @@
 
 {
 //"spider": "https://gitee.com/heny2099/tt/raw/master/fan.jar;md5;3d161697458ecbcd2651a749db761ba1",
-"spider": "./fan.jar;md5;3d161697458ecbcd2651a749db761ba1",
+//"spider": "./fan.jar;md5;3d161697458ecbcd2651a749db761ba1",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728569685606/fan.txt;md5;3b30e9a5547caef28ba4b5c8a246360b",
 
-  "doh": [
+"doh": [
 {"name":"騰訊","url":"https://doh.pub/dns-query"},
 {"name":"阿里","url":"https://dns.alidns.com/dns-query"},
 {"name":"360","url":"https://doh.360.cn/dns-query"},
@@ -52,13 +53,13 @@
 "sites": [
  //fan 
 //{"key":"豆包","name":"豆包","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},  
-//{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout": 15,"changeable": 1,"searchable":1,"quickSearch":1,"playerType":2},
-{"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout": 15,"changeable": 1,"searchable":1,"quickSearch":1,"playerType":2},
+//{"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"DiDuan","name":"低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"📔厂长","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czzy.top/"},
 {"key":"原创","name":"原创","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-//{"key":"糯米","name":"🍓糯米","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"糯米","name":"🍓糯米","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},  
 //{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heny2099/tt/raw/master/qj24225去弹窗.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 //qj
