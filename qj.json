@@ -88,10 +88,10 @@
 //采集
 //{"key": "SNzy","name": "索尼 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","纪录片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","影视解说","伦理片","足球"]},   
 {"key":"量子","name":"🛰️量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","playurl":"https://lziplayer.com/?url=","searchable":1,"changeable":1,"categories":["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","日本动漫","欧美动漫","国产动漫","动画片","纪录片","大陆综艺","港台综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","战争片"]},
-{"key":"Aid","name":"🚑急救┃自救教学","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 {"key":"Bili","name":"🅱哔哔┃合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":1,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"},
 {"key":"Biliych","name":"🅱明星┃演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}},
+{"key":"Aid","name":"🚑急救┃自救教学","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style":{"type":"rect","ratio":3.8}}
 
 ],
 
