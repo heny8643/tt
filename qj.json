@@ -61,12 +61,12 @@
 //{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heny2099/tt/raw/master/qj24225去弹窗.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 
 //qj
-{"key":"快看1","name":"快看1","type":3,"api":"csp_Kuaikan","jar": "./fix24914.jar","changeable": 1,"searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
-{"key":"天天1","name":"天天1","type":3,"api":"csp_TTian","jar": "./fix24914.jar","playerType":1,"ext":"baHR0cDovL29wLnlzZHFqcy5jbg=="},
-{"key":"热播1","name":"热播1","type":3,"api":"csp_Rebot","jar": "./fix24914.jar","playerType":1,"ext":"caHR0cDovL3YucmJvdHYuY24="},
-{"key":"追剧1","name":"追剧1","type":3,"api":"csp_TTian","jar": "./fix24914.jar","playerType":1,"ext":"daHR0cDovL3oua3pqdHYuY29t"},
-{"key":"木叶","name":"木叶","type":3,"api":"csp_Muye","jar": "./fix24914.jar","playerType":1,"ext":"cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"},
-{"key":"柠檬","name":"柠檬","type":3,"api":"csp_Nmvod","jar": "./fix24914.jar","playerType":1,"ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="},
+{"key":"快看1","name":"快看1","type":3,"api":"csp_Kuaikan","jar": "./qj24225去弹窗.jar","changeable": 1,"searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
+//{"key":"天天1","name":"天天1","type":3,"api":"csp_TTian","jar": "./fix24914.jar","playerType":1,"ext":"baHR0cDovL29wLnlzZHFqcy5jbg=="},
+//{"key":"热播1","name":"热播1","type":3,"api":"csp_Rebot","jar": "./fix24914.jar","playerType":1,"ext":"caHR0cDovL3YucmJvdHYuY24="},
+//{"key":"追剧1","name":"追剧1","type":3,"api":"csp_TTian","jar": "./fix24914.jar","playerType":1,"ext":"daHR0cDovL3oua3pqdHYuY29t"},
+//{"key":"木叶","name":"木叶","type":3,"api":"csp_Muye","jar": "./fix24914.jar","playerType":1,"ext":"cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"},
+//{"key":"柠檬","name":"柠檬","type":3,"api":"csp_Nmvod","jar": "./fix24914.jar","playerType":1,"ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="},
 
 //{"key":"天天","name":"天天","type":3,"api":"csp_TTian","changeable": 1,"playerType":1,"ext":"http://op.ysdqjs.cn","jar": "https://gitee.com/heny2099/tt/raw/master/qj24225去弹窗.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 
