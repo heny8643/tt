@@ -49,7 +49,7 @@
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout": 15,"changeable": 1,"searchable":1,"quickSearch":1,"playerType":2},
 
 {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"比特","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
+//{"key":"比特","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"木星","name":"木星","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
 {"key":"热播","name":"热播","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"萌米","name":"萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
@@ -87,8 +87,8 @@
 
 //磁力
 {"key":"Dygang","name":"🧲电影港","type":3,"searchable":1,"changeable":0,"timeout": 30,"api":"csp_Dygang","jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
-{"key":"csp_JianPian","name":"🧲荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"http://api2.rinhome.com","jar": "https://gitee.com/heny2099/tt/raw/master/香佬.jar"},
-{"key":"csp_xpath_yinfans","name":"🧲音范丝","type":3,"api":"csp_XPath","changeable":0,"timeout":40,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json","jar":"https://gitee.com/heny2099/tt/raw/master/香佬.jar"},
+//{"key":"csp_JianPian","name":"🧲荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"http://api2.rinhome.com","jar": "https://gitee.com/heny2099/tt/raw/master/香佬.jar"},
+//{"key":"csp_xpath_yinfans","name":"🧲音范丝","type":3,"api":"csp_XPath","changeable":0,"timeout":40,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json","jar":"https://gitee.com/heny2099/tt/raw/master/香佬.jar"},
 
 //采集
 //{"key": "SNzy","name": "索尼 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","纪录片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","影视解说","伦理片","足球"]},   
