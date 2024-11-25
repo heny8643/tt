@@ -47,7 +47,7 @@
  //fan
     		
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout": 15,"changeable": 1,"searchable":1,"quickSearch":1,"playerType":2},
-
+{"key":"MTV","name":"🎧比莉音乐","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":1,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"},
 {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"比特","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"木星","name":"木星","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
