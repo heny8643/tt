@@ -15,7 +15,7 @@
 "lives": [
 {"name":"live","type":0,"timeout":20,"playerType":2,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 {"name":"Gather","type":0,"ua":"okhttp","timeout": 60,"playerType":2,"url":"https://tv.iill.top//m3u/Gather","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-{"name":"肥羊itv","type":3,"api":"csp_Feiyang","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/refs/heads/main/allinone345.txt","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+//{"name":"肥羊itv","type":3,"api":"csp_Feiyang","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/refs/heads/main/allinone345.txt","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"name":"范明明V6","type":0,"timeout":100,"playerType":1,"changeable":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
  ],
 
@@ -46,8 +46,9 @@
   ],
 "sites": [
  //fan
-    		
-{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout": 15,"changeable": 1,"searchable":1,"quickSearch":1,"playerType":2},
+{"key":"糯米","name":"🍓糯米","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},  
+   		
+//{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout": 15,"changeable": 1,"searchable":1,"quickSearch":1,"playerType":2},
 
 {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"比特","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
@@ -63,7 +64,6 @@
 //{"key":"原创","name":"原创","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"厂长","name":"📔厂长","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czzy.top/"},
-{"key":"糯米","name":"🍓糯米","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},  
 //{"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},  
 //{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","changeable": 1,"searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/heny2099/tt/raw/master/qj24225去弹窗.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 //小米
