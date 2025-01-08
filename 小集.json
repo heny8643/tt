@@ -1,36 +1,41 @@
 ﻿{
     "urls": [
-          
+//代理:
+//https://cors.zme.ink/
+//https://gh-proxy.com/
+//https://gh.llkk.cc/
+//https://gh-proxy.llyke.com/
+
        
        {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/qj.json",
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/heny8643/tt/main/qj.json",
             "name": "综合"
         },
         
        {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/heny8643/tt/main/qj.json",
+            "url": "https://cors.zme.ink/https://raw.githubusercontent.com/heny8643/tt/main/qj.json",
             "name": "综合1"
         },
  
        {
-            "url": "https://githubfd.deno.dev/heny8643/tt/main/qj.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/heny8643/tt/main/qj.json",
             "name": "综合2"
         },
  
  
        {
-            "url": "https://githubfd.deno.dev/heny8643/tt/main/xl.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/heny8643/tt/main/xl.json",
             "name": "镜像"
         },
  
 
        {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/main/xl.json",
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/heny8643/tt/main/xl.json",
             "name": "镜像1"
         },
         
        {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/heny8643/tt/main/xl.json",
+            "url": "https://cors.zme.ink/https://raw.githubusercontent.com/heny8643/tt/main/xl.json",
             "name": "影视2"
         },
  
