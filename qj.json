@@ -84,6 +84,10 @@
 
 {"key":"荐片","name":"🍭荐片","api":"csp_Jianpian","type":3,"playerType":"1","ext":"http://api2.rinhome.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"},
 
+//短剧
+{"key":"serv00-go","name":"短剧go","type":1,"api":"http://zhangqun1818.serv00.net:5052","searchable":1,"quickSearch":0,"changeable":0},
+{"key":"短剧采集","name":"🌞短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod"},//qj
+
 //qj
 //{"key":"快看1","name":"快看1","type":3,"api":"csp_Kuaikan","jar": "./qj24225去弹窗.jar","changeable": 1,"searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
 
