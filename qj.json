@@ -15,8 +15,6 @@
 "lives": [
 //{"name":"live","type":0,"timeout":20,"playerType":2,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 {"name":"Gather","type":0,"ua":"okhttp","timeout": 60,"playerType":2,"url":"https://tv.iill.top//m3u/Gather","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-{"name":"RITV","type":0,"timeout":60,"changeable":0,"url":"http://heny8643.serv00.net/rptv1.txt","ua": "DeBenDan","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png"},
-{"name":"RITV2","type":0,"timeout":60,"changeable":0,"url":"http://heny8643.serv00.net/rptv2.txt","ua": "DeBenDan","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png"},
 
 //{"name":"肥羊itv","type":3,"api":"csp_Feiyang","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/refs/heads/main/allinone345.txt","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"name":"范明明V6","type":0,"timeout":100,"playerType":1,"changeable":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
