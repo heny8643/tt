@@ -78,7 +78,7 @@
 
 {"key":"csp_Wwys","name":"👨农民","type":3,"playerType":2,"changeable":0,"api":"csp_Wwys","ext":"https://www.wwgz.cn/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737615281091/0124.jar;md5;150bd645651760acb6117d0e4c14ab0d"},
 
-{"key":"csp_XSX","name":"👀视讯","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"csp_Xsx","playerType":2,"filterable":1,"ext":"","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737615281091/0124.jar;md5;150bd645651760acb6117d0e4c14ab0d"},
+//{"key":"csp_XSX","name":"👀视讯","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"csp_Xsx","playerType":2,"filterable":1,"ext":"","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737615281091/0124.jar;md5;150bd645651760acb6117d0e4c14ab0d"},
 
 {"key":"huohuo","name":"💥火火","type":3,"changeable":0,"api":"csp_SaoHuo","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737615281091/0124.jar;md5;150bd645651760acb6117d0e4c14ab0d"},
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737615281091/0124.jar;md5;150bd645651760acb6117d0e4c14ab0d"},
@@ -119,7 +119,7 @@
 {"key":"py_jieyingshi","name":"界影视","type":3,"api":"https://json.doube.eu.org/python/py_jieyingshi.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
 
 //短剧
-{"key":"serv00-go","name":"短剧go","type":1,"api":"http://zhangqun1818.serv00.net:5052","searchable":1,"quickSearch":0,"changeable":0},
+//{"key":"serv00-go","name":"短剧go","type":1,"api":"http://zhangqun1818.serv00.net:5052","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"短剧采集","name":"🌞短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod"},//qj
 
 //qj
@@ -142,7 +142,7 @@
 //{"key":"茶狐影视","name":"茶杯狐","type":3,"api":"csp_XBPQ","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/dongchenliu/liu/raw/master/lib/jqqys.json"},
 
 //磁力
-{"key":"Dygang","name":"🧲电影港","type":3,"searchable":1,"changeable":0,"timeout": 30,"api":"csp_Dygang","jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
+//{"key":"Dygang","name":"🧲电影港","type":3,"searchable":1,"changeable":0,"timeout": 30,"api":"csp_Dygang","jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
 //{"key":"csp_JianPian","name":"🧲荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"http://api2.rinhome.com","jar": "https://gitee.com/heny2099/tt/raw/master/香佬.jar"},
 //{"key":"csp_xpath_yinfans","name":"🧲音范丝","type":3,"api":"csp_XPath","changeable":0,"timeout":40,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json","jar":"https://gitee.com/heny2099/tt/raw/master/香佬.jar"},
 
