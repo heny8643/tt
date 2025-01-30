@@ -142,7 +142,7 @@
 //{"key":"茶狐影视","name":"茶杯狐","type":3,"api":"csp_XBPQ","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/dongchenliu/liu/raw/master/lib/jqqys.json"},
 
 //磁力
-{"key":"Dygang","name":"🧲电影港","type":3,"searchable":1,"changeable":0,"timeout": 30,"api":"csp_Dygang","jar": "./fix240924.jar"},
+{"key":"Dygang","name":"🧲电影港","type":3,"searchable":1,"changeable":0,"timeout": 30,"api":"csp_Dygang","jar": "./fix24924.jar"},
 //{"key":"csp_JianPian","name":"🧲荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"http://api2.rinhome.com","jar": "https://gitee.com/heny2099/tt/raw/master/香佬.jar"},
 //{"key":"csp_xpath_yinfans","name":"🧲音范丝","type":3,"api":"csp_XPath","changeable":0,"timeout":40,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json","jar":"https://gitee.com/heny2099/tt/raw/master/香佬.jar"},
 
