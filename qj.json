@@ -154,7 +154,7 @@
 
 //{"key":"Bili","name":"🅱哔哔┃合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":1,"changeable":0,"ext":"https://notabug.org/fantaiying/ext/raw/main/bilibili.json"},
 
-
+{"key":"Biliych","name":"🅱哔哔音乐","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"}},
 //{"key":"Biliych","name":"🅱明星┃演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://notabug.org/fantaiying/ext/raw/main/biliych.json"},
 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}},
