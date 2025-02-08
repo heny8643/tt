@@ -15,16 +15,18 @@
 
 "lives": [
 {"name":"Ptv","type":0,"timeout":20,"playerType":2,"url":"http://www.52sw.top:678/play/play-tv.php","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-
 {"name":"ysws","type":0,"timeout":20,"playerType":2,"url":"./ysws.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+
 //{"name":"live","type":0,"timeout":20,"playerType":2,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 
-{"name":"mi2gu","type":0,"ua":"okhttp","timeout": 60,"playerType":2,"url":"https://www.freetv.top/migu.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+{"name":"migu1","type":0,"ua":"okhttp","timeout": 60,"playerType":2,"url":"https://gh-proxy.llyke.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+
+{"name":"migu2","type":0,"ua":"okhttp","timeout": 60,"playerType":2,"url":"https://www.freetv.top/migu.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 {"name":"jdshipin","type":0,"ua":"okhttp","timeout": 60,"playerType":2,"url":"./jdshipin.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 {"name":"Gather","type":0,"ua":"okhttp","timeout": 60,"playerType":2,"url":"https://tv.iill.top/m3u/Gather","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 
-//{"name":"肥羊itv","type":3,"api":"csp_Feiyang","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/heny8643/tt/refs/heads/main/allinone345.txt","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-{"name":"范明明V6","type":0,"timeout":100,"playerType":1,"changeable":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
+{"name":"肥羊itv","type":3,"api":"csp_Feiyang","url":"https://gh-proxy.llyke.com/https://raw.githubusercontent.com/heny8643/tt/refs/heads/main/allinone345.txt","ext":"https://gh-proxy.llyke.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://gh-proxy.llyke.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5","jar":"./mf.jar"},
+{"name":"范明明V6","type":0,"timeout":100,"playerType":1,"changeable":0,"url":"https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
  ],
 
 "rules": [
@@ -114,13 +116,11 @@
 {"key":"csp_LaoBaiBook","name":"📚听书","type":3,"api":"csp_LaoBaiBook","playerType":2,"searchable":0,"style":{"type":"rect","ratio":1.333},"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737615281091/0124.jar;md5;150bd645651760acb6117d0e4c14ab0d"},
 
 //{"key":"荐片","name":"🍭荐片","api":"csp_Jianpian","type":3,"playerType":"1","ext":"http://api2.rinhome.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737615281091/0124.jar;md5;150bd645651760acb6117d0e4c14ab0d"},
-
-//py
-
-{"key":"py_jieyingshi","name":"界影视","type":3,"api":"https://json.doube.eu.org/python/py_jieyingshi.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
 //牛二
-{"key":"WexrenrenGuard","name":"人人","type":3,"api":"csp_WexrenrenGuard","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737987854196/wex.txt;md5;7c3f9f7fb55f13fbc874079a20949fa5","searchable":1,"changeable":1},
-	
+{"key":"WexrenrenGuard","name":"人人","type":3,"api":"csp_WexrenrenGuard","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737987854196/wex.txt;md5;7c3f9f7fb55f13fbc874079a20949fa5","searchable":1,"changeable":1},	
+//py
+{"key":"py_jieyingshi","name":"界影视","type":3,"api":"https://json.doube.eu.org/python/py_jieyingshi.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
+
 //短剧
 {"key":"serv00-go","name":"短剧go","type":1,"api":"http://zhangqun1818.serv00.net:5052","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"短剧采集","name":"🌞短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod"},//qj
@@ -145,7 +145,7 @@
 //{"key":"茶狐影视","name":"茶杯狐","type":3,"api":"csp_XBPQ","jar":"https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/dongchenliu/liu/raw/master/lib/jqqys.json"},
 
 //磁力
-//{"key":"Dygang","name":"🧲电影港","type":3,"searchable":1,"changeable":0,"timeout": 30,"api":"csp_Dygang","jar": "http://cdn.qiaoji8.com/fix240524.jar;md5;52a7187a09053f22828cc9ca829b1b73"},
+//{"key":"Dygang","name":"🧲电影港","type":3,"searchable":1,"changeable":0,"timeout": 30,"api":"csp_Dygang","jar": "./fix24924.jar"},
 //{"key":"csp_JianPian","name":"🧲荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"timeout": 60,"ext":"http://api2.rinhome.com","jar": "https://gitee.com/heny2099/tt/raw/master/香佬.jar"},
 //{"key":"csp_xpath_yinfans","name":"🧲音范丝","type":3,"api":"csp_XPath","changeable":0,"timeout":40,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json","jar":"https://gitee.com/heny2099/tt/raw/master/香佬.jar"},
 
@@ -156,7 +156,8 @@
 //{"key":"MTV","name":"比莉音乐","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://notabug.org/fantaiying/ext/raw/main/MTV.json"}},
 
 //{"key":"Bili","name":"🅱哔哔┃合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":1,"changeable":0,"ext":"https://notabug.org/fantaiying/ext/raw/main/bilibili.json"},
-{"key": "哔哩音乐","name": "哔哩音乐","type": 3,"api": "csp_Bili","jar": "./mf.jar","searchable": 0,"changeable": 0,"ext": {"type": "MV#抖音音乐#快手音乐#酷狗音乐#酷我音乐#QQ音乐#无损音乐#助眠曲#钢琴曲#舞曲#卡点#时光音乐会#好声音#粤语#2023年热榜#KTV热门#滚石经典#经典老歌#古风MV#闽南语MV#印度歌舞#网红翻唱#韩国女团#A阿黛尔#Blackpink#Beyond#B坂井泉水#B宝丽金#B布兰妮#C程响#C陈晓竹#C崔健#C蔡依林#C草蜢#Coldplay#C陈慧娴#C陈百强#C陈淑桦#C陈瑞#C陈慧琳#D邓丽君#D邓紫棋#D刀郎#D达明一派#F费玉清#F飞图#G谷村新司#G郭富城#G关淑怡#H黄凯芹#J降央卓玛#J江慧#J吉永小百合#J金庸#K柯以敏#K邝美云#L刘惜君#L梁雁翎#L刘德华#Lady Gaga#L龙飘飘#L李贞贤#L李秀英#L罗大佑#L林志炫#L林忆莲#L李知恩#L梁静茹#L冷漠#L李克勤#L林子祥#L黎明#L刘若英#M莫文蔚#M孟庭苇#M麦当娜#M迈克杰克逊#N雅尼紫禁城#P潘越云#P潘美辰#Q齐秦#R任贤齐#S苏慧伦#T童安格#TFBOYS#T太极乐队#T唐朝摇滚#T谭咏麟#W王琪#W伍珂玥#W王杰#W伍佰#W温兆伦#W王菲#X夏婉安#X徐小凤#X席琳迪翁#X许嵩#X许美静#X许冠杰#X熊天平#X小虎队#X许巍#Y叶启田#Y杨钰莹#Y叶玉卿#Y杨千嬅#Y怡正宵#Z左麟右李#Z张楚#Z张真#Z张震岳#Z赵传#Z周华健#Z周启生#Z张信哲#Z张也#Z周慧敏#Z张碧晨#Z中岛美雪#Z张学友#Z猪哥亮#Z周杰伦#Z周深#Z张蔷#Z张帝#Z张国荣#Z周传雄","cookie": "http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},{"key":"Biliych","name":"🅱哔哔演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"}},
+{"key": "哔哩音乐","name": "哔哩音乐","type": 3,"api": "csp_Bili","jar": "./mf.jar","searchable": 0,"changeable": 0,"ext": {"type": "MV#抖音音乐#快手音乐#酷狗音乐#酷我音乐#QQ音乐#无损音乐#助眠曲#钢琴曲#舞曲#卡点#时光音乐会#好声音#粤语#2023年热榜#KTV热门#滚石经典#经典老歌#古风MV#闽南语MV#印度歌舞#网红翻唱#韩国女团#A阿黛尔#Blackpink#Beyond#B坂井泉水#B宝丽金#B布兰妮#C程响#C陈晓竹#C崔健#C蔡依林#C草蜢#Coldplay#C陈慧娴#C陈百强#C陈淑桦#C陈瑞#C陈慧琳#D邓丽君#D邓紫棋#D刀郎#D达明一派#F费玉清#F飞图#G谷村新司#G郭富城#G关淑怡#H黄凯芹#J降央卓玛#J江慧#J吉永小百合#J金庸#K柯以敏#K邝美云#L刘惜君#L梁雁翎#L刘德华#Lady Gaga#L龙飘飘#L李贞贤#L李秀英#L罗大佑#L林志炫#L林忆莲#L李知恩#L梁静茹#L冷漠#L李克勤#L林子祥#L黎明#L刘若英#M莫文蔚#M孟庭苇#M麦当娜#M迈克杰克逊#N雅尼紫禁城#P潘越云#P潘美辰#Q齐秦#R任贤齐#S苏慧伦#T童安格#TFBOYS#T太极乐队#T唐朝摇滚#T谭咏麟#W王琪#W伍珂玥#W王杰#W伍佰#W温兆伦#W王菲#X夏婉安#X徐小凤#X席琳迪翁#X许嵩#X许美静#X许冠杰#X熊天平#X小虎队#X许巍#Y叶启田#Y杨钰莹#Y叶玉卿#Y杨千嬅#Y怡正宵#Z左麟右李#Z张楚#Z张真#Z张震岳#Z赵传#Z周华健#Z周启生#Z张信哲#Z张也#Z周慧敏#Z张碧晨#Z中岛美雪#Z张学友#Z猪哥亮#Z周杰伦#Z周深#Z张蔷#Z张帝#Z张国荣#Z周传雄","cookie": "http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},
+//{"key":"Biliych","name":"🅱哔哔演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"}},
 //{"key":"Biliych","name":"🅱明星┃演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://notabug.org/fantaiying/ext/raw/main/biliych.json"},
 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}},
