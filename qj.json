@@ -110,17 +110,9 @@
 {"key":"csp_LaoBaiBook","name":"📚听书","type":3,"api":"csp_LaoBaiBook","playerType":2,"searchable":0,"style":{"type":"rect","ratio":1.333},"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738899321098/0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0"},
 
 //{"key":"荐片","name":"🍭荐片","api":"csp_Jianpian","type":3,"playerType":"1","ext":"http://api2.rinhome.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738899321098/0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0"},
+
 //牛二
 //{"key":"WexrenrenGuard","name":"人人","type":3,"api":"csp_WexrenrenGuard","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739022222434/wex.txt;md5;1fac1539ccd7e2a548a982915cde6e09","searchable":1,"changeable":1},	
-
-{"key":"Wexduanjuvop","name":"短剧秒播","type":3,"api":"csp_WexduanjuvopGuard","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739022222434/wex.txt;md5;1fac1539ccd7e2a548a982915cde6e09","searchable":1,"changeable":1},
-
-{"key":"Wexduanjuhema","name":"短剧仙品","type":3,"api":"csp_WexduanjuhemaGuard","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739022222434/wex.txt;md5;1fac1539ccd7e2a548a982915cde6e09","searchable":1,"changeable":1},
-
-
-{"key":"Wexduanju001","name":"短剧极品","type":3,"api":"csp_Wexduanju001Guard","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739022222434/wex.txt;md5;1fac1539ccd7e2a548a982915cde6e09","searchable":1,"changeable":1},
-
-//https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737987854196/wex.txt;md5;7c3f9f7fb55f13fbc874079a20949fa5
 
 //py
 {"key":"py_jieyingshi","name":"界影视","type":3,"api":"https://json.doube.eu.org/python/py_jieyingshi.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
