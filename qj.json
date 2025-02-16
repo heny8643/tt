@@ -24,10 +24,10 @@
   ],
 
 "lives": [
-{"name":"Ptv","type":0,"timeout":20,"playerType":2,"url":"http://www.52sw.top:678/play/play-tv.php","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+//{"name":"Ptv","type":0,"timeout":20,"playerType":2,"url":"http://www.52sw.top:678/play/play-tv.php","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 
 {"name":"ysws","type":0,"timeout":20,"playerType":2,"url":"./ysws.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-
+{"name":"体育live","type":0,"timeout":60,"changeable":0,"url":"http://222.186.10.33:50002/m3u/judy8899.m3u","ua":"okhttp"},
 {"name":"ITV(仅支持最新新版影视)","type":0,"url":"https://mpimg.cn/down.php/2e0a10f8436052a34b89ba42c0e49921.txt","epg":"http://epg.51zmt.top:8000/e.xml","ua":"okhttp/3.15,AptvPlayer/1.4.0","timeout":"3","playerType":2},
 
 //{"name":"live","type":0,"timeout":20,"playerType":2,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
