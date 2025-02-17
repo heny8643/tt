@@ -1,7 +1,8 @@
 {
 
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738479478359/f0202.txt;md5;9dbf4e8b686d614d5d6ae609347742ab",
+//"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738479478359/f0202.txt;md5;9dbf4e8b686d614d5d6ae609347742ab",
 
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739695859502/f0216a.txt;md5;e7f40f74273fa4c916264d3ccba9a50f",
 
   "hosts": [
     "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
@@ -29,15 +30,10 @@
 {"name":"ysws","type":0,"timeout":20,"playerType":2,"url":"./ysws.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 {"name":"体育live","type":0,"timeout":60,"changeable":0,"url":"http://222.186.10.33:50002/m3u/judy8899.m3u","ua":"okhttp"},
 
-{"name":"ITV(仅支持最新新版影视)","type":0,"url":"https://mpimg.cn/down.php/2e0a10f8436052a34b89ba42c0e49921.txt","epg":"http://epg.51zmt.top:8000/e.xml","ua":"okhttp/3.15,AptvPlayer/1.4.0","timeout":"3","playerType":2},
-
-//{"name":"live","type":0,"timeout":20,"playerType":2,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-
-//{"name":"migu1","type":0,"ua":"okhttp","timeout": 60,"playerType":2,"url":"https://gh-proxy.llyke.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-
-{"name":"migu2","type":0,"ua":"okhttp","timeout": 60,"playerType":2,"url":"https://www.freetv.top/migu.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 {"name":"jdshipin","type":0,"ua":"okhttp","timeout": 60,"playerType":2,"url":"./jdshipin.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 {"name":"Gather","type":0,"ua":"okhttp","timeout": 60,"playerType":2,"url":"https://tv.iill.top/m3u/Gather","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+
+{"name":"ITV(仅支持最新新版影视)","type":0,"playerType":2,"url":"https://mpimg.cn/down.php/2e0a10f8436052a34b89ba42c0e49921.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 
 //{"name":"肥羊itv","type":3,"api":"csp_Feiyang","url":"https://gh-proxy.llyke.com/https://raw.githubusercontent.com/heny8643/tt/refs/heads/main/allinone345.txt","ext":"https://gh-proxy.llyke.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://gh-proxy.llyke.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5","jar":"./mf.jar"},
 {"name":"范明明V6","type":0,"timeout":100,"playerType":1,"changeable":0,"url":"https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
@@ -72,9 +68,14 @@
  //fan
  {"key":"糯米","name":"🍓糯米","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},  
   {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"欢视","name":"👓欢视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
+
+{"key":"zxzj","name":"🍊在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
+
 {"key":"热播","name":"热播","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 
+{"key":"荐片","name":"荐片","type":3,"api":"csp_JPJ","playerType":2,"searchable":1,"quickSearch":0,"changeable":0},
 
 //小米
 
@@ -110,21 +111,12 @@
 //py
 {"key":"py_jieyingshi","name":"界影视","type":3,"api":"https://json.doube.eu.org/python/py_jieyingshi.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
 
+{"key":"光速py","name":"光速py","type":3,"api":"./py光速.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":1},
+
 //短剧
 
 {"key":"短剧采集","name":"🌞短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod"},//qj
 {"key":"serv00-go","name":"短剧go","type":1,"api":"http://zhangqun1818.serv00.net:5052","searchable":1,"quickSearch":0,"changeable":0},
-
-
-//qj
-
-//其他
-
-
-//XBPQ
-
-
-//磁力
 
 //采集
 
