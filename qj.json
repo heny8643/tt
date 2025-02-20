@@ -41,7 +41,7 @@
  ],
 
 "rules": [
-{"name":"proxy","hosts":["today.line.me","ushls.ballbar.net","everydaytv.top","raw.githubusercontent.com","stream-link.org","youtube.com","googlevideo.com","api.nivodz.com","static.nivod.tv","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","www.histar.tv","yc.cdn.media.ulivetv.net","vip.kuaikan-cdn3.com","aws.ulivetv.net","cdn.v82u1l.com","cdn.iz8qkg.com","haiwaikan.com","www.duboku.tv","my.duboku.vip","bokux.com","uhibo.com","boku.com",".*boku.*", ".*nivod.*", ".*ulivetv.*",".*wogg.xyz"]},
+//{"name":"proxy","hosts":["today.line.me","ushls.ballbar.net","everydaytv.top","raw.githubusercontent.com","stream-link.org","youtube.com","googlevideo.com","api.nivodz.com","static.nivod.tv","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","www.histar.tv","yc.cdn.media.ulivetv.net","vip.kuaikan-cdn3.com","aws.ulivetv.net","cdn.v82u1l.com","cdn.iz8qkg.com","haiwaikan.com","www.duboku.tv","my.duboku.vip","bokux.com","uhibo.com","boku.com",".*boku.*", ".*nivod.*", ".*ulivetv.*",".*wogg.xyz"]},
 {"name":"yqk","hosts":["yqk88"],"regex":["18.4","15.1666"]},
 {"name":"蜗牛直连去广","hosts":["vip.123pan.cn","rescdn.wuxivlog.cn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"ff","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
