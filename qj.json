@@ -1,8 +1,7 @@
 {
+//"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739695859502/f0216a.txt;md5;e7f40f74273fa4c916264d3ccba9a50f",
 
-//"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738479478359/f0202.txt;md5;9dbf4e8b686d614d5d6ae609347742ab",
-
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739695859502/f0216a.txt;md5;e7f40f74273fa4c916264d3ccba9a50f",
+ "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739954396935/f0219.txt;md5;ba35fb2f0e67c77dce39098d79093a8e",
 
   "hosts": [
     "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
@@ -34,7 +33,9 @@
 {"name":"Gather","type":0,"ua":"okhttp","timeout": 60,"playerType":2,"url":"https://tv.iill.top/m3u/Gather","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 
 {"name":"ITV(仅支持最新新版影视)","type":0,"playerType":2,"url":"https://mpimg.cn/down.php/2e0a10f8436052a34b89ba42c0e49921.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-{"name":"yt","type":0,"playerType":2,"timeout":60,"url":"http://127.0.0.1:9978/file/Download/yt.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+
+{"name":"yt","type":0,"playerType":2,"url":"http://127.0.0.1:9978/file/Download/yt.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+
 //{"name":"肥羊itv","type":3,"api":"csp_Feiyang","url":"https://gh-proxy.llyke.com/https://raw.githubusercontent.com/heny8643/tt/refs/heads/main/allinone345.txt","ext":"https://gh-proxy.llyke.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://gh-proxy.llyke.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5","jar":"./mf.jar"},
 {"name":"范明明V6","type":0,"timeout":100,"playerType":1,"changeable":0,"url":"https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
  ],
@@ -66,7 +67,7 @@
   ],
 "sites": [
  //fan
-//{"key":"糯米","name":"🍓糯米","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},  
+ {"key":"糯米","name":"🍓糯米","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},  
 //{"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"欢视","name":"👓欢视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
 
@@ -74,6 +75,12 @@
 
 {"key":"热播","name":"热播","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 //{"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"厂长","name":"📔厂长","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzyvideo.com/"},
+{"key":"可可","name":"👻可可","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"Auete","name":"🏝奥特","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
+{"key":"Ysj","name":"🎀异界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"Anime1","name":"🐾JP动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"木星","name":"🌞木星","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="},
 
 {"key":"荐片","name":"荐片","type":3,"api":"csp_JPJ","playerType":2,"searchable":1,"quickSearch":0,"changeable":0},
 
