@@ -41,7 +41,7 @@
 
 
 //py
-{"key":"光速py","name":"光速py","type":3,"api":"./py光速.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":1},
+{"key":"光速py","name":"光速","type":3,"api":"./py光速.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":1},
 {"key":"py_jieyingshi","name":"界影视","type":3,"api":"https://json.doube.eu.org/python/py_jieyingshi.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
 
 //短剧
@@ -55,7 +55,7 @@
 
 {"key":"csp_Bili","name":"🅱演唱会","type":3,"api":"csp_Bili","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8","playerType":2,"ext":{"json":"https://drive.almondcloud.cn/f/odVjUB/bili.json","cookie":"http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},
 
-{"key": "哔哩音乐","name": "音乐","type": 3,"api": "csp_Bili","jar": "./mf.jar","searchable": 0,"changeable": 0,"ext": {"type": "MV#抖音音乐#快手音乐#酷狗音乐#酷我音乐#QQ音乐#无损音乐#助眠曲#钢琴曲#舞曲#卡点#时光音乐会#好声音#粤语#2023年热榜#KTV热门#滚石经典#经典老歌#古风MV#闽南语MV#印度歌舞#网红翻唱#韩国女团#A阿黛尔#Blackpink#Beyond#B坂井泉水#B宝丽金#B布兰妮#C程响#C陈晓竹#C崔健#C蔡依林#C草蜢#Coldplay#C陈慧娴#C陈百强#C陈淑桦#C陈瑞#C陈慧琳#D邓丽君#D邓紫棋#D刀郎#D达明一派#F费玉清#F飞图#G谷村新司#G郭富城#G关淑怡#H黄凯芹#J降央卓玛#J江慧#J吉永小百合#J金庸#K柯以敏#K邝美云#L刘惜君#L梁雁翎#L刘德华#Lady Gaga#L龙飘飘#L李贞贤#L李秀英#L罗大佑#L林志炫#L林忆莲#L李知恩#L梁静茹#L冷漠#L李克勤#L林子祥#L黎明#L刘若英#M莫文蔚#M孟庭苇#M麦当娜#M迈克杰克逊#N雅尼紫禁城#P潘越云#P潘美辰#Q齐秦#R任贤齐#S苏慧伦#T童安格#TFBOYS#T太极乐队#T唐朝摇滚#T谭咏麟#W王琪#W伍珂玥#W王杰#W伍佰#W温兆伦#W王菲#X夏婉安#X徐小凤#X席琳迪翁#X许嵩#X许美静#X许冠杰#X熊天平#X小虎队#X许巍#Y叶启田#Y杨钰莹#Y叶玉卿#Y杨千嬅#Y怡正宵#Z左麟右李#Z张楚#Z张真#Z张震岳#Z赵传#Z周华健#Z周启生#Z张信哲#Z张也#Z周慧敏#Z张碧晨#Z中岛美雪#Z张学友#Z猪哥亮#Z周杰伦#Z周深#Z张蔷#Z张帝#Z张国荣#Z周传雄","cookie": "http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},
+{"key": "哔哩音乐","name": "🅱音乐","type": 3,"api": "csp_Bili","jar": "./mf.jar","searchable": 0,"changeable": 0,"ext": {"type": "MV#抖音音乐#快手音乐#酷狗音乐#酷我音乐#QQ音乐#无损音乐#助眠曲#钢琴曲#舞曲#卡点#时光音乐会#好声音#粤语#2023年热榜#KTV热门#滚石经典#经典老歌#古风MV#闽南语MV#印度歌舞#网红翻唱#韩国女团#A阿黛尔#Blackpink#Beyond#B坂井泉水#B宝丽金#B布兰妮#C程响#C陈晓竹#C崔健#C蔡依林#C草蜢#Coldplay#C陈慧娴#C陈百强#C陈淑桦#C陈瑞#C陈慧琳#D邓丽君#D邓紫棋#D刀郎#D达明一派#F费玉清#F飞图#G谷村新司#G郭富城#G关淑怡#H黄凯芹#J降央卓玛#J江慧#J吉永小百合#J金庸#K柯以敏#K邝美云#L刘惜君#L梁雁翎#L刘德华#Lady Gaga#L龙飘飘#L李贞贤#L李秀英#L罗大佑#L林志炫#L林忆莲#L李知恩#L梁静茹#L冷漠#L李克勤#L林子祥#L黎明#L刘若英#M莫文蔚#M孟庭苇#M麦当娜#M迈克杰克逊#N雅尼紫禁城#P潘越云#P潘美辰#Q齐秦#R任贤齐#S苏慧伦#T童安格#TFBOYS#T太极乐队#T唐朝摇滚#T谭咏麟#W王琪#W伍珂玥#W王杰#W伍佰#W温兆伦#W王菲#X夏婉安#X徐小凤#X席琳迪翁#X许嵩#X许美静#X许冠杰#X熊天平#X小虎队#X许巍#Y叶启田#Y杨钰莹#Y叶玉卿#Y杨千嬅#Y怡正宵#Z左麟右李#Z张楚#Z张真#Z张震岳#Z赵传#Z周华健#Z周启生#Z张信哲#Z张也#Z周慧敏#Z张碧晨#Z中岛美雪#Z张学友#Z猪哥亮#Z周杰伦#Z周深#Z张蔷#Z张帝#Z张国荣#Z周传雄","cookie": "http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},
 
 {"key":"Aid","name":"🚑急救","type":3,"api":"csp_FirstAidGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 {"key":"push_agent","name":"🛴推送","type":3,"api":"csp_PushGuard","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}}
