@@ -1,7 +1,6 @@
 {
-//"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739695859502/f0216a.txt;md5;e7f40f74273fa4c916264d3ccba9a50f",
-
- "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739954396935/f0219.txt;md5;ba35fb2f0e67c77dce39098d79093a8e",
+// "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739954396935/f0219.txt;md5;ba35fb2f0e67c77dce39098d79093a8e",
+ "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740523835818/f0226.txt;md5;c4701a89448cfd4b3840d57729772b3b",
 
   "hosts": [
     "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
@@ -60,17 +59,18 @@
   ],
 "sites": [
  //fan
-// {"key":"糯米","name":"🍓糯米","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},  
-//{"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"糯米","name":"🍓糯米","type":3,"api":"csp_Nmyswv","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},  
+{"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"可可","name":"👻可可","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"Auete","name":"🏝奥特","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
 {"key":"欢视","name":"👓欢视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
+{"key":"神车","name":"🚎神车","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"},
+{"key":"萌米","name":"👀萌米","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I2bux0Y8Qze6tVlMg=="},
 
 {"key":"zxzj","name":"🍊在线","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
-
 {"key":"热播","name":"热播","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 //{"key":"苹果","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"📔厂长","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzyvideo.com/"},
-{"key":"可可","name":"👻可可","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"Auete","name":"🏝奥特","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},
 {"key":"Ysj","name":"🎀异界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Anime1","name":"🐾JP动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"木星","name":"🌞木星","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="},
@@ -78,29 +78,28 @@
 //{"key":"荐片","name":"荐片","type":3,"api":"csp_JPJ","playerType":2,"searchable":1,"quickSearch":0,"changeable":0},
 
 //小米
-//旧jar：https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738899321098/0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0
 
 //{"key":"csp_SuBaiBai","name":"☁️白白","type":3,"api":"csp_SuBaiBai","playerType":2,"jar":"./xm0207.jar;md5;a21873a6b978627f12aa58f57b26b9b0","ext": "http://www.subaibai.com"},
 
-//{"key":"csp_Xlys","name":"🍤哔嘀","api":"csp_Xlys","type":3,"playerType":2,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81"},
+//{"key":"csp_Xlys","name":"🍤哔嘀","api":"csp_Xlys","type":3,"playerType":2,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8"},
 
-{"key":"csp_Wwys","name":"👨农民","type":3,"playerType":2,"changeable":0,"api":"csp_Wwys","ext":"https://www.wwgz.cn/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81"},
+{"key":"csp_Wwys","name":"👨农民","type":3,"playerType":2,"changeable":0,"api":"csp_Wwys","ext":"https://www.wwgz.cn/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8"},
 
-//{"key":"csp_XSX","name":"👀视讯","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"csp_Xsx","playerType":2,"filterable":1,"ext":"","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81"},
+//{"key":"csp_XSX","name":"👀视讯","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"csp_Xsx","playerType":2,"filterable":1,"ext":"","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8"},
 
-{"key":"huohuo","name":"💥火火","type":3,"changeable":0,"api":"csp_SaoHuo","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81"},
-{"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81"},
+{"key":"huohuo","name":"💥火火","type":3,"changeable":0,"api":"csp_SaoHuo","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8"},
+{"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8"},
 
-//{"key":"csp_视觉","name":"🔭视觉","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"https://drive.almondcloud.cn/f/q3JKT9/shijue.py","playerType":2,"filterable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81"},
+//{"key":"csp_视觉","name":"🔭视觉","type":3,"searchable":1,"changeable":1,"quickSearch":1,"api":"https://drive.almondcloud.cn/f/q3JKT9/shijue.py","playerType":2,"filterable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8"},
 
-{"key":"csp_Wetv","name":"🚗尘落","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81","api":"csp_Wetv"},
+{"key":"csp_Wetv","name":"🚗尘落","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8","api":"csp_Wetv"},
 
-{"key":"csp_LaoBaiBook","name":"📚听书","type":3,"api":"csp_LaoBaiBook","playerType":2,"searchable":0,"style":{"type":"rect","ratio":1.333},"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81"},
+{"key":"csp_LaoBaiBook","name":"📚听书","type":3,"api":"csp_LaoBaiBook","playerType":2,"searchable":0,"style":{"type":"rect","ratio":1.333},"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8"},
 
-{"key":"csp_Lkdy","name":"💐来看","type":3,"api":"csp_Lkdy","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81"},
-{"key":"csp_Jpys","name":"🥇金牌","type":3,"api":"csp_Jpys","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81"},
-{"key":"小猫","name":"🐱小猫","type":3,"quickSearch":1,"api":"csp_MiTuApp","ext":"sHR2rlsfjI4L3t4RXQMkn35bf/1LEoRwqTXcrC7IQ0LqkJ9uquhjeheQXMJ/1jcyl7dTdYTs2tmJx3JQfbM+sLOHa3gv0n6rwfqf5gycuzU7dkNLItKvRFx3Cc438fy/s56XVJJZXZczLxopwnsmcYwYi1Ry6merfTK6wL78+y09P00Emc+qYY6cbo9/0p3aoyI75hXhhWfgk2fsdhl/CJ63tm0h5nu8u2sR6MVAG9bXBLHLiasPCrBhIBKlseXE","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81"},
-{"key":"csp_AppXY","name":"🐸短剧","type":3,"api":"csp_AppXY","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81"},
+{"key":"csp_Lkdy","name":"💐来看","type":3,"api":"csp_Lkdy","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8"},
+{"key":"csp_Jpys","name":"🥇金牌","type":3,"api":"csp_Jpys","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8"},
+{"key":"小猫","name":"🐱小猫","type":3,"quickSearch":1,"api":"csp_MiTuApp","ext":"sHR2rlsfjI4L3t4RXQMkn35bf/1LEoRwqTXcrC7IQ0LqkJ9uquhjeheQXMJ/1jcyl7dTdYTs2tmJx3JQfbM+sLOHa3gv0n6rwfqf5gycuzU7dkNLItKvRFx3Cc438fy/s56XVJJZXZczLxopwnsmcYwYi1Ry6merfTK6wL78+y09P00Emc+qYY6cbo9/0p3aoyI75hXhhWfgk2fsdhl/CJ63tm0h5nu8u2sR6MVAG9bXBLHLiasPCrBhIBKlseXE","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8"},
+{"key":"csp_AppXY","name":"🐸短剧","type":3,"api":"csp_AppXY","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8"},
 
 //py
 {"key":"光速py","name":"光速py","type":3,"api":"./py光速.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":1},
@@ -115,7 +114,7 @@
 
 {"key":"量子","name":"🛰️量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","playurl":"https://lziplayer.com/?url=","searchable":1,"changeable":1,"categories":["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","日本动漫","欧美动漫","国产动漫","动画片","纪录片","大陆综艺","港台综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","战争片"]},
 
-{"key":"csp_Bili","name":"🅱哔哩演唱会","type":3,"api":"csp_Bili","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81","playerType":2,"ext":{"json":"https://drive.almondcloud.cn/f/odVjUB/bili.json","cookie":"http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},
+{"key":"csp_Bili","name":"🅱哔哩演唱会","type":3,"api":"csp_Bili","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8","playerType":2,"ext":{"json":"https://drive.almondcloud.cn/f/odVjUB/bili.json","cookie":"http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},
 
 {"key": "哔哩音乐","name": "哔哩音乐","type": 3,"api": "csp_Bili","jar": "./mf.jar","searchable": 0,"changeable": 0,"ext": {"type": "MV#抖音音乐#快手音乐#酷狗音乐#酷我音乐#QQ音乐#无损音乐#助眠曲#钢琴曲#舞曲#卡点#时光音乐会#好声音#粤语#2023年热榜#KTV热门#滚石经典#经典老歌#古风MV#闽南语MV#印度歌舞#网红翻唱#韩国女团#A阿黛尔#Blackpink#Beyond#B坂井泉水#B宝丽金#B布兰妮#C程响#C陈晓竹#C崔健#C蔡依林#C草蜢#Coldplay#C陈慧娴#C陈百强#C陈淑桦#C陈瑞#C陈慧琳#D邓丽君#D邓紫棋#D刀郎#D达明一派#F费玉清#F飞图#G谷村新司#G郭富城#G关淑怡#H黄凯芹#J降央卓玛#J江慧#J吉永小百合#J金庸#K柯以敏#K邝美云#L刘惜君#L梁雁翎#L刘德华#Lady Gaga#L龙飘飘#L李贞贤#L李秀英#L罗大佑#L林志炫#L林忆莲#L李知恩#L梁静茹#L冷漠#L李克勤#L林子祥#L黎明#L刘若英#M莫文蔚#M孟庭苇#M麦当娜#M迈克杰克逊#N雅尼紫禁城#P潘越云#P潘美辰#Q齐秦#R任贤齐#S苏慧伦#T童安格#TFBOYS#T太极乐队#T唐朝摇滚#T谭咏麟#W王琪#W伍珂玥#W王杰#W伍佰#W温兆伦#W王菲#X夏婉安#X徐小凤#X席琳迪翁#X许嵩#X许美静#X许冠杰#X熊天平#X小虎队#X许巍#Y叶启田#Y杨钰莹#Y叶玉卿#Y杨千嬅#Y怡正宵#Z左麟右李#Z张楚#Z张真#Z张震岳#Z赵传#Z周华健#Z周启生#Z张信哲#Z张也#Z周慧敏#Z张碧晨#Z中岛美雪#Z张学友#Z猪哥亮#Z周杰伦#Z周深#Z张蔷#Z张帝#Z张国荣#Z周传雄","cookie": "http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},
 
