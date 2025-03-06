@@ -26,7 +26,7 @@
 
 //小米
 
-{"key":"csp_Wwys","name":"👨农民","type":3,"playerType":2,"changeable":0,"api":"csp_WwysGuard","ext":"https://www.wwgz.cn/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"},
+//{"key":"csp_Wwys","name":"👨农民","type":3,"playerType":2,"changeable":0,"api":"csp_WwysGuard","ext":"https://www.wwgz.cn/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"},
 
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360Guard","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"},
 
