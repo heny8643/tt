@@ -1,5 +1,7 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740523835818/f0226.txt;md5;c4701a89448cfd4b3840d57729772b3b",
+
+//  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740523835818/f0226.txt;md5;c4701a89448cfd4b3840d57729772b3b",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
 
   "hosts": [
@@ -18,15 +20,13 @@
 {"key":"比特","name":"🍄比特","type":3,"api":"csp_BttwooGuard","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"文采","name":"💮文采","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"低端","name":"⏮️低端","type":3,"api":"csp_DdrkGuard","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"热播","name":"📺热播","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
+{"key":"热播fan","name":"📺热播","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"萌米","name":"👀萌米","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I2bux0Y8Qze6tVlMg=="},
 {"key":"可可","name":"👻可可","type":3,"api":"csp_KekysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"神车","name":"🚎神车","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"},
 //{"key":"木星","name":"🌞木星","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="},
 
 //小米
-
-//{"key":"csp_Wwys","name":"👨农民","type":3,"playerType":2,"changeable":0,"api":"csp_WwysGuard","ext":"https://www.wwgz.cn/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"},
 
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360Guard","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"},
 
@@ -61,7 +61,7 @@
       "ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw==","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"},
 
 {
-      "key": "热播",
+      "key": "热播xm",
       "name": "🏜热播",
       "type": 3,
       "api": "csp_AppRJGuard",
@@ -143,4 +143,4 @@
 {"name":"yt(仅最新影视)","type":0,"playerType":2,"timeout": 60,"url":"http://127.0.0.1:9978/file/Download/yt.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
 
   ]
-}
+    }
