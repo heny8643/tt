@@ -7,11 +7,11 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
 
   "hosts": [
-    "cache.ott.ystenlive.itv.cmvideo.cn=39.135.132.221",
-    "cache.ott.bestlive.itv.cmvideo.cn=39.135.132.221",
-    "cache.ott.wasulive.itv.cmvideo.cn=39.135.132.221",
- //    "cache.ott.fifalive.itv.cmvideo.cn=39.135.132.221",
-     "cache.ott.hnbblive.itv.cmvideo.cn=39.135.132.221"
+   "cache.ott.ystenlive.itv.cmvideo.cn=39.135.97.81",
+    "cache.ott.bestlive.itv.cmvideo.cn=39.135.97.81",
+    "cache.ott.wasulive.itv.cmvideo.cn=39.135.97.81",
+ //    "cache.ott.fifalive.itv.cmvideo.cn=39.135.97.81",
+     "cache.ott.hnbblive.itv.cmvideo.cn=39.135.97.81"
     
      ],
 
