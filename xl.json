@@ -110,14 +110,6 @@
       "api": "csp_FreeOkGuard"
 ,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744611574574/0414.jar;md5;b884bae49e8f06aec417d6a8778d9994"},    
     
-    {
-      "key": "二三",
-      "name": "🐕二三",
-      "type": 3,
-      "api": "csp_AppMuouGuard",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn0a7cyj8hTgLGQDyWjFZkT61hGmE5R18ZhLMJJlIIHRp5ExOKgi452hnp8FuUY7LSxZQx7OJfbrcekZ9lorJy3crZXSce0hF8VSymV7+1QsLatyYXT/qCdOJ+V/ONvC8Qp4D3mMHMGs8t9j29y+1Zu2WCQDG7MkiImMiWgydsFhy"
-,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744611574574/0414.jar;md5;b884bae49e8f06aec417d6a8778d9994"},
-
 {
       "key": "光速云端",
       "name": "🌟云端",
@@ -197,8 +189,8 @@
   "lives": [
 {"name":"ysws","type":0,"timeout":20,"url":"./黑移1.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 {"name":"jdshipin","type":0,"ua":"okhttp","timeout": 60,"url":"./jdshipin.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-{"name":"AKTV","type":0,"ua":"okhttp","timeout": 60,"url":"http://aktv.space/live.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-{"name":"Gather","type":0,"ua":"okhttp","timeout": 60,"url":"https://tv.iill.top/m3u/Gather","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
+{"name":"AKTV","type":0,"ua":"okhttp","timeout": 60,"url":"http://aktv.space/live.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
+//{"name":"Gather","type":0,"ua":"okhttp","timeout": 60,"url":"https://tv.iill.top/m3u/Gather","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
     
 //{"name":"ITV(仅最新影视)","type":0,"url":"./ity.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
 
