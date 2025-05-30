@@ -45,7 +45,7 @@
     
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360Guard","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744611574574/0414.jar;md5;b884bae49e8f06aec417d6a8778d9994"},
 
-{"key":"听书","name":"📚听书","type":3,"api":"csp_TingBookGuard","searchable":0,"ext":"http://www.6yueting.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744611574574/0414.jar;md5;b884bae49e8f06aec417d6a8778d9994"},
+//{"key":"听书","name":"📚听书","type":3,"api":"csp_TingBookGuard","searchable":0,"ext":"http://www.6yueting.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744611574574/0414.jar;md5;b884bae49e8f06aec417d6a8778d9994"},
 {"key":"csp_Lkdy","name":"💐来看","type":3,"api":"csp_LkdyGuard","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744611574574/0414.jar;md5;b884bae49e8f06aec417d6a8778d9994"},
 
 {"key":"csp_AppXY","name":"🐸短剧","type":3,"api":"csp_AppXYGuard","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744611574574/0414.jar;md5;b884bae49e8f06aec417d6a8778d9994"},
@@ -192,18 +192,18 @@
   "lives": [
 {"name":"ysws","type":0,"timeout":20,"url":"./黑移1.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 {"name":"jdshipin","type":0,"ua":"Herissmon/2016","timeout": 15,"playerType":1,"url":"https://www.pantxt.top/f/n5num/jdshipin.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png"},
-{"name":"itv","type":0,"timeout":20,"url":"http://heny8643.serv00.net/bptv.php?ip=103.149.46.188","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-{"name":"itv1","type":0,"timeout":20,"url":"http://heny8643.serv00.net/bptv.php?ip=144.24.77.56","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+//{"name":"itv","type":0,"timeout":20,"url":"http://heny8643.serv00.net/bptv.php?ip=103.149.46.188","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+//{"name":"itv1","type":0,"timeout":20,"url":"http://heny8643.serv00.net/bptv.php?ip=144.24.77.56","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 
 //{"name":"itv","type":0,"timeout":20,"url":"https://fy.iptv1.ggff.net/?ip=144.24.77.56","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 //{"name":"itv1","type":0,"timeout":20,"url":"https://fy.iptv1.ggff.net/?ip=103.149.46.188","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 //xiaoya.crccxw.top,home.kuaidi521.com
 //{"name":"AKTV","type":0,"ua":"okhttp","timeout": 60,"url":"http://aktv.space/live.m3u","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-//{"name":"Gather","type":0,"ua":"okhttp","timeout": 60,"url":"https://tv.iill.top/m3u/Gather","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
+{"name":"Gather","type":0,"ua":"okhttp","timeout": 60,"url":"https://tv.iill.top/m3u/Gather","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
     
-{"name":"ITV(仅最新影视)","type":0,"url":"./ity.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
+//{"name":"ITV(仅最新影视)","type":0,"url":"./ity.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
 
-//{"name":"牛播一（仅新版影视仓/ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"}
+{"name":"牛播一（仅新版影视仓/ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"}
 
   ]
     }
