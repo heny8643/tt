@@ -192,6 +192,7 @@
   "lives": [
 {"name":"ysws","type":0,"timeout":20,"url":"./黑移1.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 //{"name":"jdshipin","type":0,"playerType":2,"ua":"okhttp","timeout": 15,"url":"https://www.pantxt.top/f/n5num/jdshipin.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+{ "name": "aktv", "url": "https://aktv.space/live.m3u"},
 {"name":"jdshipin","type":0,"playerType":2,"ua":"okhttp","timeout": 15,"url":"./jdshipin.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 
 //{"name":"Herissmon","type":0,"playerType":1,"header":{"User-Agent":"Herissmon/2016"},"timeout": 15,"url":"https://www.pantxt.top/f/zKEh4/ity.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
