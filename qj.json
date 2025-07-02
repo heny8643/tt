@@ -115,6 +115,8 @@
 {"key":"短剧采集","name":"🌞短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod"},//qj
 //{"key":"serv00-go","name":"短剧go","type":1,"api":"http://zhangqun1818.serv00.net:5052","searchable":1,"quickSearch":0,"changeable":0},
 
+{"key":"Wexlaobaitingshu","name":"白兔听书","type":3,"api":"csp_WexlaobaitingshuGuard","jar":"https://gitee.com/heny2099/tt/raw/master/wex0629.jar","searchable":1,"changeable":1},
+    
 //采集
 
 {"key":"量子","name":"🛰️量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","playurl":"https://lziplayer.com/?url=","searchable":1,"changeable":1,"categories":["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","日本动漫","欧美动漫","国产动漫","动画片","纪录片","大陆综艺","港台综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","战争片"]},
