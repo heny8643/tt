@@ -80,6 +80,53 @@
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn"
 ,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751959626294/0708.png;md5;4bf2acc215f466a906159073ba3427fb"},
+
+    
+  {
+      "key": "csp_LiteApple",
+      "name": "🍎苹果",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751959626294/0708.png;md5;4bf2acc215f466a906159073ba3427fb",
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_LiteApple"
+    },   
+   
+{
+      "key": "QD4K",
+      "name": "🐷猪猪",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_AppYsV2",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751959626294/0708.png;md5;4bf2acc215f466a906159073ba3427fb",
+      "playerType": 2,
+      "ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt"
+    },
+    
+ {
+      "key": "热热",
+      "name": "🔥热热",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_AppRJ",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751959626294/0708.png;md5;4bf2acc215f466a906159073ba3427fb",
+      "ext": "jsSMEuhTZIAHjnUoLBzKdlRu5exzno6M4efF8LzwjWM="
+    },   
+    
+ {
+      "key": "追忆5",
+      "name": "💭追忆",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_AppSy",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751959626294/0708.png;md5;4bf2acc215f466a906159073ba3427fb",
+      "playerType": 2,
+      "ext": "9rfWRaAx60J+W5F+j6agt6AHU3NkRl7m8WqfWIBU/MebSZgzY2wnsXwmAIMEYVqMzsnqr46bOn1q4JV/UJAKUVF6NUo2Xg8qcHgXrA63RWM="
+    },
+         
  
  //巧记
   {
@@ -117,50 +164,7 @@
       "playerType": 2,
       "ext": "7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7"
     },
-{
-      "key": "QD4K",
-      "name": "🐷猪猪",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_AppYsV2",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751959626294/0708.png;md5;4bf2acc215f466a906159073ba3427fb",
-      "playerType": 2,
-      "ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt"
-    },
-    
- {
-      "key": "热热",
-      "name": "🔥热热",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_AppRJ",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751959626294/0708.png;md5;4bf2acc215f466a906159073ba3427fb",
-      "ext": "jsSMEuhTZIAHjnUoLBzKdlRu5exzno6M4efF8LzwjWM="
-    },   
-    
- {
-      "key": "追忆5",
-      "name": "💭追忆",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_AppSy",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751959626294/0708.png;md5;4bf2acc215f466a906159073ba3427fb",
-      "playerType": 2,
-      "ext": "9rfWRaAx60J+W5F+j6agt6AHU3NkRl7m8WqfWIBU/MebSZgzY2wnsXwmAIMEYVqMzsnqr46bOn1q4JV/UJAKUVF6NUo2Xg8qcHgXrA63RWM="
-    },
-    
-  {
-      "key": "csp_LiteApple",
-      "name": "🍎苹果",
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751959626294/0708.png;md5;4bf2acc215f466a906159073ba3427fb",
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_LiteApple"
-    },   
+ 
         
 //py
 {
@@ -169,17 +173,20 @@
       "type": 3,
       "quickSearch": 1,
       "searchable": 1,
-      "api": "https://13826.kstore.space/%E5%92%96%E5%95%A1.py",
+      "api": "https://gitee.com/heny2099/tt/raw/master/%E5%92%96%E5%95%A1.py",
       "ext": ""
     },
+// https://13826.kstore.space/%E5%92%96%E5%95%A1.py
+
 {
       "key": "牛牛",
       "name": "🍁牛牛",
       "type": 3,
       "quickSearch": 1,
       "searchable": 1,
-      "api": "https://13826.kstore.space/mioaying.py"
+      "api": "https://gitee.com/heny2099/tt/raw/master/mioaying.py"
     },    
+//https://13826.kstore.space/mioaying.py
     
 {"key":"py_jianpian","name":"捡片","type":3,"api":"https://gitee.com/heny2099/tt/raw/master/newjp.py","searchable":1,"quickSearch":1,"filterable":0},{"key":"光速py","name":"光速","type":3,"api":"https://gitee.com/heny2099/tt/raw/master/py_gs.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 
