@@ -208,7 +208,7 @@
 
   "lives": [
 {"name":"ysws","type":0,"timeout":20,"url":"https://www.pantxt.top/f/mZLhW/%E9%BB%91%E7%A7%BB1.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-{ "name": "aktv", "url": "https://aktv.space/live.m3u"},
+//{ "name": "aktv", "url": "https://aktv.space/live.m3u"},
 {"name":"jdshipin","type":0,"playerType":2,"ua":"okhttp","timeout": 15,"url":"https://www.pantxt.top/f/n5num/jdshipin.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
 
   ]
