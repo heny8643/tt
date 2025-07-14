@@ -45,7 +45,7 @@
 
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0,"jar":"https://www.pantxt.top/f/PJ7h3/xm0710.txt;md5;5114070d143df490139e62a87207010f"},
 
-{"key":"csp_AppXY","name":"🐸短剧","type":3,"api":"csp_AppXY","jar":"https://www.pantxt.top/f/PJ7h3/xm0710.txt;md5;5114070d143df490139e62a87207010f"},
+//{"key":"csp_AppXY","name":"🐸短剧","type":3,"api":"csp_AppXY","jar":"https://www.pantxt.top/f/PJ7h3/xm0710.txt;md5;5114070d143df490139e62a87207010f"},
 
 {
       "key": "csp_baibai",
@@ -110,18 +110,6 @@
       "jar": "https://www.pantxt.top/f/PJ7h3/xm0710.txt;md5;5114070d143df490139e62a87207010f",
       "ext": "jsSMEuhTZIAHjnUoLBzKdlRu5exzno6M4efF8LzwjWM="
     },   
-    
- {
-      "key": "追忆5",
-      "name": "💭追忆",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_AppSy",
-      "jar": "https://www.pantxt.top/f/PJ7h3/xm0710.txt;md5;5114070d143df490139e62a87207010f",
-      "playerType": 2,
-      "ext": "9rfWRaAx60J+W5F+j6agt6AHU3NkRl7m8WqfWIBU/MebSZgzY2wnsXwmAIMEYVqMzsnqr46bOn1q4JV/UJAKUVF6NUo2Xg8qcHgXrA63RWM="
-    },
  
          
  
