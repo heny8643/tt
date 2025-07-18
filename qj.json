@@ -157,26 +157,6 @@
 {"key":"蝴蝶","name":"蝴蝶","type":3,"api":"csp_Hudie","jar": "https://www.pantxt.top/f/MB8fz/fix250611.txt;md5;83e79618db661722282127c185ed2331","playerType":2,"ext":"7lj763gg402i794255648kj0hj539g9hl7k6jk52ji"}, 
         
 //py
-{
-      "key": "咖啡",
-      "name": "☕咖啡",
-      "type": 3,
-      "quickSearch": 1,
-      "searchable": 1,
-      "api": "https://gitee.com/heny2099/tt/raw/master/%E5%92%96%E5%95%A1.py",
-      "ext": ""
-    },
-// https://13826.kstore.space/%E5%92%96%E5%95%A1.py
-
-{
-      "key": "牛牛",
-      "name": "🍁牛牛",
-      "type": 3,
-      "quickSearch": 1,
-      "searchable": 1,
-      "api": "https://gitee.com/heny2099/tt/raw/master/mioaying.py"
-    },    
-//https://13826.kstore.space/mioaying.py
     
 {"key":"py_jianpian","name":"捡片","type":3,"api":"https://gitee.com/heny2099/tt/raw/master/newjp.py","searchable":1,"quickSearch":1,"filterable":0},{"key":"光速py","name":"光速","type":3,"api":"https://gitee.com/heny2099/tt/raw/master/py_gs.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
 
