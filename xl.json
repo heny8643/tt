@@ -71,7 +71,7 @@
   "ads":["mozai.4gtv.tv"],
   "lives":[
    {"name":"ysws","type":0,"timeout":20,"url":"./黑移1.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-
+{ "name": "冰茶tv", "url": "https://fy.188766.xyz/?ip=192.168.1.2&mishitong=false&lunbo=false&bconly=true"},
 {"name":"jdshipin","type":0,"playerType":2,"ua":"okhttp","timeout": 15,"url":"https://www.pantxt.top/f/n5num/jdshipin.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
 
   ],
@@ -164,3 +164,4 @@
     {"name":"bdys10","hosts":["bdys10.com"], "regex":["/obj/"], "exclude":[".m3u8"]}
   ]
 }
+
