@@ -72,6 +72,14 @@
   "lives":[
    {"name":"ysws","type":0,"timeout":20,"url":"./黑移1.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 { "name": "冰茶tv", "url": "https://fy.188766.xyz/?ip=192.168.1.2&mishitong=false&lunbo=false&bconly=true"},
+    {"name":"广东电信","type":0,"ua": "okhttp","timeout":15,"changeable":0,"url":"https://gh-proxy.llyke.com/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/txt/广东电信.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+
+{"name":"湖南电信","type":0,"ua": "okhttp","timeout":15,"changeable":0,"url":"https://gh-proxy.llyke.com/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/txt/湖南电信.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+
+{"name":"浙江电信","type":0,"ua": "okhttp","timeout":15,"changeable":0,"url":"https://gh-proxy.llyke.com/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/txt/浙江电信.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+
+{"name":"四川电信","type":0,"ua": "okhttp","timeout":15,"changeable":0,"url":"https://gh-proxy.llyke.com/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/txt/四川电信.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
+
 {"name":"jdshipin","type":0,"playerType":2,"ua":"okhttp","timeout": 15,"url":"https://www.pantxt.top/f/n5num/jdshipin.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
 
   ],
@@ -164,4 +172,5 @@
     {"name":"bdys10","hosts":["bdys10.com"], "regex":["/obj/"], "exclude":[".m3u8"]}
   ]
 }
+
 
