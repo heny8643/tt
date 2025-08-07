@@ -163,7 +163,7 @@
 //短剧
 
 {"key":"短剧采集","name":"🌞短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod"},//qj
-//{"key":"serv00-go","name":"短剧go","type":1,"api":"http://zhangqun1818.serv00.net:5052","searchable":1,"quickSearch":0,"changeable":0},
+{"key":"serv00-go","name":"短剧go","type":1,"api":"http://zhangqun1818.serv00.net/ww.php","searchable":1,"quickSearch":0,"changeable":0},
 
 //采集
 
@@ -202,6 +202,7 @@
 
   ]
     }
+
 
 
 
