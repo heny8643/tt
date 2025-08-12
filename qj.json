@@ -173,7 +173,7 @@
 
 
 //小米
-{"key":"csp_Bili","name":"🅱Bili","type":3,"api":"csp_Bili","jar":"https://www.pantxt.top/f/PJ7h3/xm0710.txt;md5;5114070d143df490139e62a87207010f","playerType":2,"ext":{"json":"https://www.pantxt.top/f/VZQHg/bili.txt","cookie":"http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},
+{"key":"csp_Bili","name":"🅱音乐xm","type":3,"api":"csp_Bili","jar":"https://www.pantxt.top/f/PJ7h3/xm0710.txt;md5;5114070d143df490139e62a87207010f","playerType":2,"ext":{"json":"https://www.pantxt.top/f/VZQHg/bili.txt","cookie":"http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},
 //https://ai-search-static.dangbei.net/db-ai-search/2025/04/14/1911670191528480768/1744612665263_bili.json
 
 //fm
@@ -202,6 +202,7 @@
 
   ]
     }
+
 
 
 
