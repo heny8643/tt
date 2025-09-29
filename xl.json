@@ -71,15 +71,8 @@
   "ads":["mozai.4gtv.tv"],
   "lives":[
 {"name":"ysws","type":0,"playerType":1,"timeout":20,"url":"https://www.pantxt.top/f/mZLhW/%E9%BB%91%E7%A7%BB1.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-{ "name": "冰茶tv", "url": "https://fy.188766.xyz/?ip=192.168.1.2&mishitong=false&lunbo=false&bconly=true"},
-{"name":"广东电信","type":0,"ua": "okhttp","timeout":15,"changeable":0,"url":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/组播_广东电信.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-
-{"name":"湖南电信","type":0,"ua": "okhttp","timeout":15,"changeable":0,"url":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/组播_湖南电信.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-
-{"name":"浙江电信","type":0,"ua": "okhttp","timeout":15,"changeable":0,"url":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/组播_浙江电信.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-
-{"name":"四川电信","type":0,"ua": "okhttp","timeout":15,"changeable":0,"url":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/组播_四川电信.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-
+{ "name": "icetv", "url": "https://fy.188766.xyz/?ip=192.168.1.2&mishitong=false&lunbo=false&bconly=true"},
+{"name":"zubo","type":0,"ua": "okhttp","timeout":15,"changeable":0,"url":"http://heny8643.serv00.net/zubolist.php","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
   ],
   "ijk":[
     {"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
@@ -170,6 +163,7 @@
     {"name":"bdys10","hosts":["bdys10.com"], "regex":["/obj/"], "exclude":[".m3u8"]}
   ]
 }
+
 
 
 
