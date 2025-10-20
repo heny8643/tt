@@ -6,20 +6,6 @@
 
   "wallpaper": "https://深色壁纸.xxooo.cf/",
 
-  "hosts": [
-  //    "cache.ott.ystenlive.itv.cmvideo.cn=39.135.97.81",
-//    "cache.ott.bestlive.itv.cmvideo.cn=39.135.97.81",
-//    "cache.ott.wasulive.itv.cmvideo.cn=39.135.97.81",
- //    "cache.ott.fifalive.itv.cmvideo.cn=39.135.97.81",
-  //   "cache.ott.hnbblive.itv.cmvideo.cn=39.135.97.81"
-
-"cache.ott.ystenlive.itv.cmvideo.cn=ystenlive.itvdns.com", 
-"cache.ott.bestlive.itv.cmvideo.cn=bestlive.itvdns.com", 
-"cache.ott.wasulive.itv.cmvideo.cn=wasulive.itvdns.com",
-//"cache.ott.fifalive.itv.cmvideo.cn=fifalive.itvdns.com", 
-"cache.ott.hnbblive.itv.cmvideo.cn=hnbblive.itvdns.com"
-    
-     ],
 
   "sites": [
   //fan
@@ -194,6 +180,7 @@
 
   ]
     }
+
 
 
 
