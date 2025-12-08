@@ -160,9 +160,6 @@
 
 {"key":"量子","name":"🛰️量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","playurl":"https://lziplayer.com/?url=","searchable":1,"changeable":1,"categories":["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","日本动漫","欧美动漫","国产动漫","动画片","纪录片","大陆综艺","港台综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","战争片"]},
 
-{"key":"Wexlaobaitingshu","name":"白兔听书","type":3,"api":"csp_WexlaobaitingshuGuard","jar":"https://www.pantxt.top/f/RBPu5/wex0629.txt;md5;5733093b83561365f8c1a6f34f246a07","searchable":1,"changeable":1},
-
-
 //小米
 {"key":"csp_Bili","name":"🅱音乐xm","type":3,"api":"csp_Bili","jar":"https://www.pantxt.top/f/PJ7h3/xm0710.txt;md5;5114070d143df490139e62a87207010f","playerType":2,"ext":{"json":"https://www.pantxt.top/f/VZQHg/bili.txt","cookie":"http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},
 //https://ai-search-static.dangbei.net/db-ai-search/2025/04/14/1911670191528480768/1744612665263_bili.json
@@ -185,6 +182,7 @@
 
   ]
     }
+
 
 
 
