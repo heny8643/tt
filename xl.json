@@ -1,5 +1,5 @@
 {
-  "spider": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/4D1F357_773_ok_20250929113719828newMediaFile.png;md5;a2fc21e40538bcba56457cdc4dbfc83a",
+  "spider": "https://10352.kstore.vip/202512080950.png;md5;4d26dc9cf0518d6c869975638690f871",
   "wallpaper":"http://127.0.0.1:9978/proxy?do=wall",
   "sites": [
 // {"key":"糯米","name":"🍓糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
@@ -163,6 +163,7 @@
     {"name":"bdys10","hosts":["bdys10.com"], "regex":["/obj/"], "exclude":[".m3u8"]}
   ]
 }
+
 
 
 
