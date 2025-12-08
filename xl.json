@@ -2,38 +2,33 @@
   "spider": "https://10352.kstore.vip/202512080950.png;md5;4d26dc9cf0518d6c869975638690f871",
   "wallpaper":"http://127.0.0.1:9978/proxy?do=wall",
   "sites": [
- {"key":"糯米","name":"🍓糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
-{"key":"仓鼠","name":"🐹仓鼠┃App","type": 3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-      {"key":"瓜子","name":"🍉瓜子┃App","type": 3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"key":"热播","name":"📺热播┃App","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": 0}, "timeout": 10},
-    {"key":"天天","name":"⛅️天天┃App","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": 1}, "timeout": 10},
-    {"key":"文才","name":"🌺文才┃在线","type": 3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-   
-    {"key":"浪酷版","name":"👓浪酷┃秒播","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": 2}, "timeout": 10},
-    {"key":"小苹果","name":"🍎苹果┃直连","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
-    {"key":"素白白","name":"🐇白白┃直连","type": 3,"api":"csp_SubaibaiGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"key":"小红","name":"🐷小红┃App","type": 3,"api":"csp_XiaoHongGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"key":"雄鹰","name":"🦅雄鹰┃App","type": 3,"api":"csp_XiongYingGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-   
-    {"key":"咖啡","name":"🍫咖啡┃App","type": 3,"api":"csp_KaFeiGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"key":"晴天","name":"☀️晴天┃App","type": 3,"api":"csp_Sun4kGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
-    
-    {"key":"榴莲","name":"🍋榴莲┃App","type": 3,"api":"csp_LiulianGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+  {"key":"糯米","name":"🍓糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout": 10},
+    {"key":"瓜子","name":"🍉瓜子┃App","type": 3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
+    {"key":"文才","name":"🌺文才┃在线","type": 3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
+    {"key":"热播","name":"📺热播┃App","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"site": 0}, "timeout": 10},
+    {"key":"浪酷版","name":"👓浪酷┃秒播","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"site": 2}, "timeout": 10},
+    {"key":"小苹果","name":"🍎苹果┃直连","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout": 10},
+    {"key":"云云","name":"☁️云云┃App","type": 3,"api":"csp_YunYunGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout": 10},
+    {"key":"雄鹰","name":"🦅雄鹰┃App","type": 3,"api":"csp_XiongYingGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
+    {"key":"咖啡","name":"🍫咖啡┃App","type": 3,"api":"csp_KaFeiGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
+    {"key":"一起","name":"📺一起┃秒播","type": 3,"api":"csp_YqsGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
+    {"key":"仓鼠","name":"🐹仓鼠┃App","type": 3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
 
-    {"key":"韩圈","name":"🦄韩圈┃App","type": 3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"key":"厂长","name":"🌸厂长┃直连","type": 3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"key":"荐片","name":"⚔️荐片┃手机","type": 3,"api":"csp_JianpianGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
-   
-  //  {"key":"️爱看Bot","name":"⛅️爱看┃直连","type": 3,"api":"csp_IkanbotGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-
-    {"key":"星芽短剧","name":"💖星芽┃短剧","type":3,"api":"csp_AppXYGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
-    {"key":"甜圈短剧","name":"🌸甜圈┃短剧","type":3,"api":"csp_TianQuanGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
-
+    {"key":"厂长","name":"📔厂长┃直连","type": 3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
     {"key":"csp_Btt","name":"🌞比特┃在线","type":3,"api":"csp_BttGuard","searchable":1,"quickSearch":1,"changeable":1, "timeout": 10},
-    {"key":"ddys_js","name":"🍄低端┃在线","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://im.feelec.com.cn/res/file.html?id=2c9a91099696ce4301974da3916550ff&file=drpy2.min.js", "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319885464/ddys.txt", "timeout": 15},
-    {"key":"yhdm","name":"🌸樱花┃动漫","type": 3,"api": "csp_YHDMGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 15},
-    {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_Xb6vGuard","searchable":1,"changeable":0,"timeout":20},
+    {"key":"荐片","name":"⚔️荐片┃手机","type": 3,"api":"csp_JianpianGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":10},
+    {"key":"韩圈","name":"🦄韩圈┃App","type": 3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
+ {"key":"️爱看Bot","name":"⛅️爱看┃直连","type": 3,"api":"csp_IkanbotGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
+    {"key":"电影天堂","name":"🎞️天堂┃采集","type": 1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
 
+    {"key":"锦鲤短剧","name":"🐟锦鲤┃短剧","type":3,"api":"csp_JinliGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
+    {"key":"盒马短剧","name":"🦓盒马┃短剧","type":3,"api":"csp_HeMaGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
+    {"key":"星芽短剧","name":"💖星芽┃短剧","type":3,"api":"csp_AppXYGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
+    {"key":"甜圈短剧","name":"🌸甜圈┃短剧","type":3,"api":"csp_TianQuanGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
+
+   {"key":"yhdm","name":"🌸樱花┃动漫","type": 3,"api": "csp_YHDMGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout": 15},
+    {"key":"动漫巴士","name":"🚌巴士┃动漫","type": 3,"api":"csp_Dm84Guard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":10},
+    {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_Xb6vGuard","searchable":1,"changeable":0,"timeout":20},
 
     {"key":"瓜子看球","name":"⚽瓜子┃看球","type":3,"api":"csp_GzSportGuard","searchable":0,"changeable":0,"style":{"type":"list"},"timeout":10},
     {"key":"88看球","name":"⚽88┃看球","type":3,"api":"csp_KanqiuGuard","searchable":0,"changeable":0,"style":{"type":"list"},"timeout":10},
@@ -163,6 +158,7 @@
     {"name":"bdys10","hosts":["bdys10.com"], "regex":["/obj/"], "exclude":[".m3u8"]}
   ]
 }
+
 
 
 
