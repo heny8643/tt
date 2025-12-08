@@ -2,7 +2,7 @@
   "spider": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/4D1F357_773_ok_20250929113719828newMediaFile.png;md5;a2fc21e40538bcba56457cdc4dbfc83a",
   "wallpaper":"http://127.0.0.1:9978/proxy?do=wall",
   "sites": [
- {"key":"糯米","name":"🍓糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
+// {"key":"糯米","name":"🍓糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
 {"key":"仓鼠","name":"🐹仓鼠┃App","type": 3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
       {"key":"瓜子","name":"🍉瓜子┃App","type": 3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"key":"热播","name":"📺热播┃App","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": 0}, "timeout": 10},
@@ -163,6 +163,7 @@
     {"name":"bdys10","hosts":["bdys10.com"], "regex":["/obj/"], "exclude":[".m3u8"]}
   ]
 }
+
 
 
 
