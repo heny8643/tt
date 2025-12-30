@@ -44,7 +44,7 @@
   "ads":["mozai.4gtv.tv"],
   "lives":[
    {"name":"ysws","type":0,"timeout":20,"url":"https://www.pantxt.top/f/mZLhW/%E9%BB%91%E7%A7%BB1.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-{ "name": "icetv", "url": "https://bc.188766.xyz/?ip=&bconly=true&mima=mianfeibuhuaqian&huikan=1"},
+{ "name": "icetv", "url": "https://bc.188766.xyz/?ip=&bconly=true&mima=bingcha1130&huikan=1"},
 {"name":"广东地方","type":0,"playerType":2,"ua": "okhttp","timeout":15,"changeable":0,"url":"https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/组播_广东电信.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
 {"name":"jdshipin","type":0,"playerType":2,"ua":"okhttp","timeout": 15,"url":"https://www.pantxt.top/f/n5num/jdshipin.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
 
@@ -120,5 +120,6 @@
     {"name":"bdys10","hosts":["bdys10.com"], "regex":["/obj/"], "exclude":[".m3u8"]}
   ]
 }
+
 
 
