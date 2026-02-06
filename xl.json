@@ -1,5 +1,5 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/01/07/162a9f322707c5252f810292feb0ff5a.jpg;md5;fc225992985593c318fb0755980c6c5f",
+  "spider": "./ok0130.jar;md5;fc225992985593c318fb0755980c6c5f",
   "wallpaper":"http://127.0.0.1:9978/proxy?do=wall",
   "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
@@ -120,6 +120,7 @@
     {"name":"bdys10","hosts":["bdys10.com"], "regex":["/obj/"], "exclude":[".m3u8"]}
   ]
 }
+
 
 
 
