@@ -1,73 +1,176 @@
+//     当前接口：http://www.xn--sss604efuw.com/tv
 {
-//哔哩哔哩cookie路径: http://127.0.0.1:9978/file//download/哔哩哔哩.txt
+    "spider": "https://oss4liview.moji.com/thd_file/2026/02/20/b5bb5a60fbb9b26fe6f59ac609fca9ce.jpg;md5;32091ed00f3c6bab72ba657bdc1599c8",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "sites": [
+        {
+            "key": "糯米",
+            "name": "🍓糯米",
+            "type": 3,
+            "api": "csp_NmyswvGuard",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
 
-"spider":"./fty0701.txt;md5;8432d174d72d5b608ae1bcd16d966847",
+        {
+            "key": "热播",
+            "name": "📺热播",
+            "type": 3,
+            "api": "csp_AppTTGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "uqGL1bNENExT7/hGxpSE5qU="
+        },
 
+        {
+            "key": "立播",
+            "name": "🌟立播",
+            "type": 3,
+            "api": "csp_LibvioGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
+            }
+        },
 
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
+        {
+            "key": "厂长",
+            "name": "📔厂长",
+            "type": 3,
+            "api": "csp_NewCzGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "文采",
+            "name": "💮文采",
+            "type": 3,
+            "api": "csp_JpysGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
 
+        {
+            "key": "剧圈",
+            "name": "🐻剧圈",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM="
+        },
 
-  "sites": [
-  //fan
-// {"key":"糯米","name":"🍓糯米","type":3,"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1},
-//{"key":"zxzj","name":"🍊在线","type":3,"api":"csp_ZxzjGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
-//{"key":"比特","name":"🍄比特","type":3,"api":"csp_BttwooGuard","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"文采","name":"💮文采","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-
-{"key":"热播fan","name":"📺热播","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
-//{"key":"萌米","name":"👀萌米","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENEIVq+dC1p/Y9uWjuA=="},
-//{"key":"欢视","name":"👓欢视","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT9fFAy5mE5qU="},
-
-//{"key":"可可","name":"👻可可","type":3,"api":"csp_KekysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-
-//{"key":"神车","name":"🚎神车","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuSzrWqbloq80ygmO9WjCB9RMwhf/nZ7r/EzcL5d1Nw67mKKK4Je"},
-//{"key":"兄弟","name":"🍊兄弟","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOb1uAWbkRHp7hdxprG9un3+SPP18283TImLpLgExtYZQQN4zdk5+Noc/Eej5B9p2CFZsBC2H4u6nl5FPAqUtc="},
-//{"key":"火星","name":"🌞火星","type":3,"api":"csp_AppSxGuard","searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuSlujLK3srq3iIoaYP8Hh5fZE0d4nF48/dsb7YNi44z/yjNcsFajjBz6XJtDuw2FdqR/a6UV3ywWevO"},
-
-
-//小米
-//https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752146542140/0710.png;md5;5114070d143df490139e62a87207010f
-
-{"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0,"jar":"./xm0710.txt;md5;5114070d143df490139e62a87207010f"},
-
-//{"key":"csp_AppXY","name":"🐸短剧","type":3,"api":"csp_AppXY","jar":"./xm0710.txt;md5;5114070d143df490139e62a87207010f"},
-         
-//py
-    
-//{"key":"py_jianpian","name":"捡片","type":3,"api":"https://gitee.com/heny2099/tt/raw/master/newjp.py","searchable":1,"quickSearch":1,"filterable":0},{"key":"光速py","name":"光速","type":3,"api":"https://gitee.com/heny2099/tt/raw/master/py_gs.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
-
-//短剧
-
-{"key":"短剧采集","name":"🌞短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod"},//qj
-{"key":"serv00-go","name":"短剧go","type":1,"api":"http://zhangqun1818.serv00.net/ww.php","searchable":1,"quickSearch":0,"changeable":0},
-
-
+        {
+            "key": "视界",
+            "name": "🍙视界",
+            "type": 3,
+            "api": "csp_AppNoxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI21lWFvI8G1X0oOORAJ9GV87aJ0e7pO1NFrtWjZfNRTjiJz92xnFP1qSozOqvjICH+mT6DW1uW0R2X+2VBkbwRN8JHlF0G6Fd5MCZdG0mBWVATZOKbUiB7mOcxNiEUrUDSBQmHp7MgwFZU4ymgyH+IwTPJPAh4+opPawrLh/T1YM6tDZLjgXhrGY9bs9/7QsIu1PqvuECJRdAZEDnRzG/wRyMxOU3sE8rYTzu0M"
+        },
 //采集
+
+{"key":"短剧采集","name":"🌞短剧","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod"},
+
+{"key":"serv00-go","name":"短剧go","type":1,"api":"http://zhangqun1818.serv00.net/ww.php","searchable":1,"quickSearch":0,"changeable":0},
 
 {"key":"量子","name":"🛰️量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","playurl":"https://lziplayer.com/?url=","searchable":1,"changeable":1,"categories":["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","日本动漫","欧美动漫","国产动漫","动画片","纪录片","大陆综艺","港台综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","战争片"]},
 
+
 //小米
+{"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0,"jar":"./xm0710.txt;md5;5114070d143df490139e62a87207010f"},
+
 {"key":"csp_Bili","name":"🅱音乐xm","type":3,"api":"csp_Bili","jar":"./xm0710.txt;md5;5114070d143df490139e62a87207010f","playerType":2,"ext":{"json":"https://www.pantxt.top/f/VZQHg/bili.txt","cookie":"http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},
-//https://ai-search-static.dangbei.net/db-ai-search/2025/04/14/1911670191528480768/1744612665263_bili.json
+//
 
-//fm
-//{"key": "哔哩","name": "🅱音乐g","type": 3,"api": "csp_Bili","jar": "https://gitee.com/heny2099/tt/raw/master/mf.jar","searchable": 0,"changeable": 0,"ext": {"type": "MV#抖音音乐#快手音乐#酷狗音乐#酷我音乐#QQ音乐#无损音乐#助眠曲#钢琴曲#舞曲#卡点#时光音乐会#好声音#粤语#2023年热榜#KTV热门#滚石经典#经典老歌#古风MV#闽南语MV#印度歌舞#网红翻唱#韩国女团#A阿黛尔#Blackpink#Beyond#B坂井泉水#B宝丽金#B布兰妮#C程响#C陈晓竹#C崔健#C蔡依林#C草蜢#Coldplay#C陈慧娴#C陈百强#C陈淑桦#C陈瑞#C陈慧琳#D邓丽君#D邓紫棋#D刀郎#D达明一派#F费玉清#F飞图#G谷村新司#G郭富城#G关淑怡#H黄凯芹#J降央卓玛#J江慧#J吉永小百合#J金庸#K柯以敏#K邝美云#L刘惜君#L梁雁翎#L刘德华#Lady Gaga#L龙飘飘#L李贞贤#L李秀英#L罗大佑#L林志炫#L林忆莲#L李知恩#L梁静茹#L冷漠#L李克勤#L林子祥#L黎明#L刘若英#M莫文蔚#M孟庭苇#M麦当娜#M迈克杰克逊#N雅尼紫禁城#P潘越云#P潘美辰#Q齐秦#R任贤齐#S苏慧伦#T童安格#TFBOYS#T太极乐队#T唐朝摇滚#T谭咏麟#W王琪#W伍珂玥#W王杰#W伍佰#W温兆伦#W王菲#X夏婉安#X徐小凤#X席琳迪翁#X许嵩#X许美静#X许冠杰#X熊天平#X小虎队#X许巍#Y叶启田#Y杨钰莹#Y叶玉卿#Y杨千嬅#Y怡正宵#Z左麟右李#Z张楚#Z张真#Z张震岳#Z赵传#Z周华健#Z周启生#Z张信哲#Z张也#Z周慧敏#Z张碧晨#Z中岛美雪#Z张学友#Z猪哥亮#Z周杰伦#Z周深#Z张蔷#Z张帝#Z张国荣#Z周传雄","cookie": "http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},
+        {
+            "key": "咕咕",
+            "name": "🦉咕咕",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"
+        },
+ 
+        {
+            "key": "Anime1",
+            "name": "🐾日本",
+            "type": 3,
+            "api": "csp_Anime1Guard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
 
-//{"key": "哔哩音乐","name": "🅱音乐","type": 3,"api": "csp_Bili","jar": "https://www.pantxt.top/f/BLjh8/mf.txt;md5;98e25197fce4b874343de7d40011de1d","searchable": 0,"changeable": 0,"ext": {"type": "MV#抖音音乐#快手音乐#酷狗音乐#酷我音乐#QQ音乐#无损音乐#助眠曲#钢琴曲#舞曲#卡点#时光音乐会#好声音#粤语#2023年热榜#KTV热门#滚石经典#经典老歌#古风MV#闽南语MV#印度歌舞#网红翻唱#韩国女团#A阿黛尔#Blackpink#Beyond#B坂井泉水#B宝丽金#B布兰妮#C程响#C陈晓竹#C崔健#C蔡依林#C草蜢#Coldplay#C陈慧娴#C陈百强#C陈淑桦#C陈瑞#C陈慧琳#D邓丽君#D邓紫棋#D刀郎#D达明一派#F费玉清#F飞图#G谷村新司#G郭富城#G关淑怡#H黄凯芹#J降央卓玛#J江慧#J吉永小百合#J金庸#K柯以敏#K邝美云#L刘惜君#L梁雁翎#L刘德华#Lady Gaga#L龙飘飘#L李贞贤#L李秀英#L罗大佑#L林志炫#L林忆莲#L李知恩#L梁静茹#L冷漠#L李克勤#L林子祥#L黎明#L刘若英#M莫文蔚#M孟庭苇#M麦当娜#M迈克杰克逊#N雅尼紫禁城#P潘越云#P潘美辰#Q齐秦#R任贤齐#S苏慧伦#T童安格#TFBOYS#T太极乐队#T唐朝摇滚#T谭咏麟#W王琪#W伍珂玥#W王杰#W伍佰#W温兆伦#W王菲#X夏婉安#X徐小凤#X席琳迪翁#X许嵩#X许美静#X许冠杰#X熊天平#X小虎队#X许巍#Y叶启田#Y杨钰莹#Y叶玉卿#Y杨千嬅#Y怡正宵#Z左麟右李#Z张楚#Z张真#Z张震岳#Z赵传#Z周华健#Z周启生#Z张信哲#Z张也#Z周慧敏#Z张碧晨#Z中岛美雪#Z张学友#Z猪哥亮#Z周杰伦#Z周深#Z张蔷#Z张帝#Z张国荣#Z周传雄","cookie": "http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},
+        {
+            "key": "有声小说",
+            "name": "🎧有声小说",
+            "type": 3,
+            "api": "csp_Tingshu275Guard",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "Aid",
+            "name": "🚑急救参考",
+            "type": 3,
+            "api": "csp_FirstAidGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            }
+        },
+ 
+        {
+            "key": "push_agent",
+            "name": "🛴推送",
+            "type": 3,
+            "api": "csp_PushGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
+            }
+        }
 
-{"key":"Aid","name":"🚑急救","type":3,"api":"csp_FirstAidGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
-{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_PushGuard","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}}
+    ],
 
-  ],
+    "hosts": [
+        "img1.wsyzy.org=danmu.888484.xyz"
+    ],
+    "lives": [
 
-  "lives": [
-
-    {"name":"ysws","type":0,"ua": "okhttp","playerType": 2,"timeout":25,"changeable":0,"url":"http://heny8643.serv00.net/ysws.txt","epg":"https://epg.cdn.loc.cc?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png"},
-//    {"name":"zubo","type":0,"ua": "okhttp","timeout":15,"changeable":0,"url":"http://heny8643.serv00.net/zubolist.php","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false},
-{"name":"jdshipin","type":0,"playerType":1,"ua":"okhttp","timeout": 15,"url":"http://heny8643.serv00.net/github.php?url=https://www.pantxt.top/f/n5num/jdshipin.txt","epg":"https://reala.deno.dev/?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
-
-  ]
-    }
-
-
-
+{"name":"ysws","type":0,"ua": "okhttp","playerType": 2,"timeout":25,"changeable":0,"url":"http://heny8643.serv00.net/github.php?url=https://www.pantxt.top/f/mZLhW/黑移1.txt","epg":"https://epg.cdn.loc.cc?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png"}
+    ]
+}
