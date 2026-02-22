@@ -10,13 +10,13 @@
   "sites": [
   //fan
 // {"key":"糯米","name":"🍓糯米","type":3,"api":"csp_NmyswvGuard","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"zxzj","name":"🍊在线","type":3,"api":"csp_ZxzjGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
-{"key":"比特","name":"🍄比特","type":3,"api":"csp_BttwooGuard","searchable":1,"quickSearch":1,"changeable":1},
+//{"key":"zxzj","name":"🍊在线","type":3,"api":"csp_ZxzjGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
+//{"key":"比特","name":"🍄比特","type":3,"api":"csp_BttwooGuard","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"文采","name":"💮文采","type":3,"api":"csp_JpysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"热播fan","name":"📺热播","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU="},
 //{"key":"萌米","name":"👀萌米","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENEIVq+dC1p/Y9uWjuA=="},
-{"key":"欢视","name":"👓欢视","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT9fFAy5mE5qU="},
+//{"key":"欢视","name":"👓欢视","type":3,"api":"csp_AppTTGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT9fFAy5mE5qU="},
 
 //{"key":"可可","name":"👻可可","type":3,"api":"csp_KekysGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
@@ -31,116 +31,7 @@
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0,"jar":"./xm0710.txt;md5;5114070d143df490139e62a87207010f"},
 
 //{"key":"csp_AppXY","name":"🐸短剧","type":3,"api":"csp_AppXY","jar":"./xm0710.txt;md5;5114070d143df490139e62a87207010f"},
-
-{
-      "key": "csp_baibai",
-      "name": "🦵白白",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_SuBaiBai",
-      "ext": "https://www.subaibai.com"
-,"jar":"./xm0710.txt;md5;5114070d143df490139e62a87207010f"},
-  
-   
-   {
-      "key": "天天",
-      "name": "🦢天天",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppRJ",
-      "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
-,"jar":"./xm0710.txt;md5;5114070d143df490139e62a87207010f"},
-    
-  
-    
-    {
-      "key": "csp_Wwys",
-      "name": "👨农民",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn"
-,"jar":"./xm0710.txt;md5;5114070d143df490139e62a87207010f"},
-
-    
-  {
-      "key": "csp_LiteApple",
-      "name": "🍎苹果",
-      "type": 3,
-      "jar": "./xm0710.txt;md5;5114070d143df490139e62a87207010f",
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_LiteApple"
-    },   
-   
-{
-      "key": "QD4K",
-      "name": "🐷猪猪",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_AppYsV2",
-      "jar": "./xm0710.txt;md5;5114070d143df490139e62a87207010f",
-      "playerType": 2,
-      "ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt"
-    },
-    
- {
-      "key": "热热",
-      "name": "🔥热热",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_AppRJ",
-      "jar": "./xm0710.txt;md5;5114070d143df490139e62a87207010f",
-      "ext": "jsSMEuhTZIAHjnUoLBzKdlRu5exzno6M4efF8LzwjWM="
-    },   
- 
          
- 
- //巧记1
- 
-  {
-      "key": "巧技",
-      "name": "🚗聚搜",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "jar": "./0615qj.txt;md5;410ad21caad9e6f6d40c1ae5ca2be662",
-      "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
-    },
-
-  {
-      "key": "huomaoys",
-      "name": "🎬️火猫",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_Muou",
-      "jar": "./0615qj.txt;md5;410ad21caad9e6f6d40c1ae5ca2be662",
-      "playerType": 2,
-      "ext": "7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"
-    },
-    
- {
-      "key": "金牌app",
-      "name": "🎬️金牌",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_Muou",
-      "jar": "./0615qj.txt;md5;410ad21caad9e6f6d40c1ae5ca2be662",
-      "playerType": 2,
-      "ext": "7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7"
-    },
- 
-//巧记2
-//http://cdn.qiaoji8.com/fix250611.jar
-
-{"key":"蝴蝶","name":"蝴蝶","type":3,"api":"csp_Hudie","jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331","playerType":2,"ext":"7lj763gg402i794255648kj0hj539g9hl7k6jk52ji"}, 
-        
 //py
     
 //{"key":"py_jianpian","name":"捡片","type":3,"api":"https://gitee.com/heny2099/tt/raw/master/newjp.py","searchable":1,"quickSearch":1,"filterable":0},{"key":"光速py","name":"光速","type":3,"api":"https://gitee.com/heny2099/tt/raw/master/py_gs.py","searchable":1,"quickSearch":1,"filterable":0,"changeable":1},
@@ -152,11 +43,6 @@
 
 
 //采集
-{"key":"t1_dian_ying_tian_tang_02","name":"电影天堂(无广)","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"playUrl":"json:https://py.doube.eu.org/parse_dytt?url=","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","伦理片","短剧","动画片"]},
-
-{"key":"py_64832281816dd9a7b7c506233d457a5d","name":"官方采集(T4)","type":4,"api":"https://py.doube.eu.org/v2/spider?site=64832281816dd9a7b7c506233d457a5d","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
-
-{"key":"py_9037cfae7c64405111e0e364401adb60","name":"🍎小苹果(T4)","type":4,"api":"https://py.doube.eu.org/v2/spider?site=9037cfae7c64405111e0e364401adb60","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
 
 {"key":"量子","name":"🛰️量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","playurl":"https://lziplayer.com/?url=","searchable":1,"changeable":1,"categories":["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","日本动漫","欧美动漫","国产动漫","动画片","纪录片","大陆综艺","港台综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","战争片"]},
 
@@ -182,4 +68,5 @@
 
   ]
     }
+
 
