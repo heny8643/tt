@@ -99,7 +99,7 @@
 //小米
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":0,"filterable":1,"order_num":0,"changeable":0,"jar":"./xm0710.txt;md5;5114070d143df490139e62a87207010f"},
 
-{"key":"csp_Bili","name":"🅱音乐xm","type":3,"api":"csp_Bili","jar":"./xm0710.txt;md5;5114070d143df490139e62a87207010f","playerType":2,"ext":{"json":"https://www.pantxt.top/f/VZQHg/bili.txt","cookie":"http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},
+{"key":"csp_Bili","name":"🅱音乐xm","type":3,"api":"csp_Bili","jar":"./xm0710.txt;md5;5114070d143df490139e62a87207010f","playerType":2,"ext":{"json":"./bili.txt","cookie":"http://127.0.0.1:9978/file//download/哔哩哔哩.txt"}},
 //
 
         {
@@ -174,3 +174,4 @@
 {"name":"ysws","type":0,"ua": "okhttp","playerType": 2,"timeout":25,"changeable":0,"url":"http://heny8643.serv00.net/github.php?url=https://www.pantxt.top/f/mZLhW/黑移1.txt","epg":"https://epg.cdn.loc.cc?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png"}
     ]
 }
+
