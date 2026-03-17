@@ -48,7 +48,6 @@
 "timeout":10},
 {"key":"djps","name":"🔍短剧┃搜索","type":3,"api":"csp_AweSomeGuard","searchable":1,"filterable":1,"changeable":0,"ext":{"sp":"Djps"},
 "timeout":25},
-{"key":"配置中心ok","name":"👨‍🍳‍配置中心","type":3,"api":"csp_AweSomeGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43},"ext":{"sp":"Config"}}, 
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_AweSomeGuard","searchable":0,"filterable":0,"changeable":0,"ext":{"sp":"Push"},
 "timeout":25}
 ],
