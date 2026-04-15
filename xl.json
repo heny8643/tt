@@ -11,8 +11,6 @@
 "timeout":10},
 {"key":"热播","name":"📺热播┃App","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"TianTian","site":0},
 "timeout":10},
-{"key":"雄鹰","name":"🦅雄鹰┃App","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"XiongYing"},
-"timeout":10},
 {"key":"奇奇","name":"🐵奇奇┃App","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"QiQi"},
 "timeout":10},
 {"key":"厂长","name":"📔厂长┃直连","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"Czzy"},
@@ -26,8 +24,6 @@
 {"key":"️爱看Bot","name":"⛅️爱看┃直连","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Ikanbot"},
 "timeout":10},
 {"key":"电影天堂","name":"🎞️天堂┃采集","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":10},
-{"key":"锦鲤短剧","name":"🐟锦鲤┃短剧","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"Jinli"},
-"timeout":10},
 {"key":"盒马短剧","name":"🦓盒马┃短剧","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"HeMa"},
 "timeout":10},
 {"key":"星芽短剧","name":"💖星芽┃短剧","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"AppXY"},
@@ -81,19 +77,6 @@
 {"name":"bdys10","hosts":["bdys10.com"],"regex":["/obj/"],"exclude":[".m3u8"]}
 ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
