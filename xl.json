@@ -4,7 +4,7 @@
 //"logo":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/ACB34B_773_photo_2022-09-14_00-00-57_20251204145106336newMediaImage.jpg",
 "sites":[
 {"key":"糯米","name":"🍓糯米","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Nmys"},"timeout":10},
-{"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Guazi"},"timeout":10},
+//{"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Guazi"},"timeout":10},
 {"key":"文才","name":"🌺文才","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Jpys"},"timeout":10},
 {"key":"热播","name":"📺热播","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"TianTian","site":0},"timeout":10},
 {"key":"奇奇","name":"🐵奇奇","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"QiQi"},"timeout":10},
