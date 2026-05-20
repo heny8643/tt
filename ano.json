@@ -1,0 +1,260 @@
+{
+
+ // "spider":"https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260430/D2sL/0X0/04301123.png;md5;abd83a5ff66c2c95378034161c55e398",
+
+   "spider": "./AnotherD.png;md5;abd83a5ff66c2c95378034161c55e398",
+ 
+    "sites": [
+               {
+            "key": "🍎苹果",
+            "name": "🍎苹果",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "小苹果",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+                "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.juechufsh.android.xpg1",
+                "host": "",
+                "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+                "version": "1.0.0.3",
+                "decrypt": "0"
+            }
+        },
+  {
+            "key": "热播影视",
+            "name": "热播",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },        	
+
+ {
+            "key": "☘️三秋影视",
+            "name": "☘️三秋",
+            "type": 3,
+            "api": "csp_App3Q"
+        },
+ {
+            "key": "🌸电影天堂",
+            "name": "🌸电影天堂",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "电影天堂",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+                "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.dytiantang.one",
+                "host": "",
+                "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+                "version": "3.0.0.7",
+                "decrypt": "0"
+            }
+        },
+
+        {
+            "key": "薯条",
+            "name": "薯条",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "薯条影视",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+                "dataKey": "A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.st.standroid",
+                "host": "",
+                "site": "https://dyttandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_dyttandroid.txt",
+                "version": "5.0.0.1",
+                "decrypt": "0"
+            }
+        },
+        {
+            "key": "金牌",
+            "name": "金牌",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://qj4.catbb.xyz",
+                "dataKey": "eecbio48dsq13kkk",
+                "dataIv": "eecbio48dsq13kkk",
+                "search": "searchList4",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            }
+        },        
+        
+ {
+            "key": "橘汁",
+            "name": "橘汁",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "橘汁",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+                "dataKey": "RTRTUJZWWMO0ZWV6EFBOSURNCTK4PQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.tjjiangh.android",
+                "host": "",
+                "site": "https://vip.123pan.cn/1848463092/cct/az5.txt",
+                "version": "3.0.1.9",
+                "decrypt": "1"
+            }
+        },
+        {
+            "key": "华谊",
+            "name": "华谊",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "华谊",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
+                "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.muyue.tool",
+                "host": "",
+                "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
+                "version": "1.0.0.4",
+                "decrypt": "1"
+            }
+        },
+   {
+            "key": "久久",
+            "name": "久久",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://99cms.jj99.icu:8199/api.php/app/"
+        },
+
+        {
+            "key": "云播",
+            "name": "云播",
+            "type": 3,
+            "api": "csp_AppFox",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "host": "http://app.hktvyb.cc"
+            }
+        },
+
+        {
+            "key": "老鹰",
+            "name": "老鹰",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
+                "dataKey": "zxPtEUDGVllIUhDB",
+                "dataIv": "zxPtEUDGVllIUhDB",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "蓝鹰",
+            "name": "蓝鹰",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+                "dataKey": "ca94b06ca359d80e",
+                "dataIv": "ca94b06ca359d80e",
+                "init": "initV120",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+
+        {
+            "key": "映画",
+            "name": "映画",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://cms140.yhg.one/",
+                "dataKey": "bM7iC9eA3oZ1nB7z",
+                "dataIv": "bM7iC9eA3oZ1nB7z"
+            }
+        },
+        {
+            "key": "王子",
+            "name": "王子",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://app.95112475.xyz",
+                "dataKey": "5a9w6x58dsq6z3a6",
+                "dataIv": "5a9w6x58dsq6z3a6"
+            }
+        },
+
+        {
+            "key": "配置中心",
+            "name": "配置｜中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+   
+{
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0
+        }
+    ],
+
+    "hosts": [
+        "img1.wsyzy.org=danmu.888484.xyz"
+    ],
+    "lives": [
+{"name":"ysws","type":0,"ua": "okhttp","timeout":25,"changeable":0,"url":"http://heny8643.serv00.net/ysws.txt","epg":"https://epg.cdn.loc.cc?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png"},
+//{"name":"newit","type":0,"ua": "bingcha/1.1(mianfeifenxiang)","epg":"https://epg.cdn.loc.cc?ch={name}&date={date}","url":"https://iptv.gstory.cn/Cinetry"},
+{"name":"广东地方","type":0,"ua": "okhttp","playerType":1,"timeout":15,"changeable":0,"url":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/组播_广东电信.txt","epg":"https://epg.cdn.loc.cc?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
+//{"name":"jdshipin","type":0,"playerType":2,"ua":"okhttp","timeout": 15,"url":"http://heny8643.serv00.net/jdshipin.txt","epg":"https://epg.cdn.loc.cc?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
+    ]
+}
+
