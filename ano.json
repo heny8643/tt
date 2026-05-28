@@ -1,8 +1,5 @@
 {
-
- // "spider":"https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260430/D2sL/0X0/04301123.png;md5;abd83a5ff66c2c95378034161c55e398",
-
-   "spider": "./AnotherD.png;md5;abd83a5ff66c2c95378034161c55e398",
+  "spider": "./xsg0524.jar;md5;8c842cd390128613eeda8fbc9c28f012",
  
     "sites": [
                {
@@ -25,25 +22,7 @@
                 "decrypt": "0"
             }
         },
-  {
-            "key": "热播影视",
-            "name": "热播",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://v.rbotv.cn"
-            }
-        },        	
 
- {
-            "key": "☘️三秋影视",
-            "name": "☘️三秋",
-            "type": 3,
-            "api": "csp_App3Q"
-        },
  {
             "key": "🌸电影天堂",
             "name": "🌸电影天堂",
@@ -64,7 +43,7 @@
                 "decrypt": "0"
             }
         },
-     
+
         {
             "key": "薯条",
             "name": "薯条",
@@ -85,24 +64,8 @@
                 "decrypt": "0"
             }
         },
+
         {
-            "key": "金牌",
-            "name": "金牌",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://qj4.catbb.xyz",
-                "dataKey": "eecbio48dsq13kkk",
-                "dataIv": "eecbio48dsq13kkk",
-                "search": "searchList4",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
-        },        
-        
- {
             "key": "橘汁",
             "name": "橘汁",
             "type": 3,
@@ -113,35 +76,30 @@
             "ext": {
                 "appName": "橘汁",
                 "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-                "dataKey": "RTRTUJZWWMO0ZWV6EFBOSURNCTK4PQ==",
+                "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
                 "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-                "pkg": "com.tjjiangh.android",
+                "pkg": "com.lxf.snzlcgtzxyx",
                 "host": "",
-                "site": "https://vip.123pan.cn/1848463092/cct/az5.txt",
-                "version": "3.0.1.9",
+                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+                "version": "3.0.2.1",
                 "decrypt": "1"
             }
         },
+
         {
-            "key": "华谊",
-            "name": "华谊",
+            "key": "三秋影视",
+            "name": "三秋",
             "type": 3,
-            "api": "csp_AppDrama",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "appName": "华谊",
-                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-                "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-                "pkg": "com.muyue.tool",
-                "host": "",
-                "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-                "version": "1.0.0.4",
-                "decrypt": "1"
-            }
+            "api": "csp_App3Q"
         },
+
+ {
+            "key": "独播影视",
+            "name": "独播库",
+            "type": 3,
+            "api": "csp_Duboku"
+        },
+
    {
             "key": "久久",
             "name": "久久",
@@ -152,6 +110,7 @@
             "filterable": 1,
             "ext": "http://99cms.jj99.icu:8199/api.php/app/"
         },
+
 
         {
             "key": "老鹰",
@@ -167,35 +126,7 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-        {
-            "key": "蓝鹰",
-            "name": "蓝鹰",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
-                "dataKey": "ca94b06ca359d80e",
-                "dataIv": "ca94b06ca359d80e",
-                "init": "initV120",
-                "ua": "okhttp/3.10.0"
-            }
-        },
 
-        {
-            "key": "映画",
-            "name": "映画",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://cms140.yhg.one/",
-                "dataKey": "bM7iC9eA3oZ1nB7z",
-                "dataIv": "bM7iC9eA3oZ1nB7z"
-            }
-        },
         {
             "key": "王子",
             "name": "王子",
@@ -209,6 +140,69 @@
                 "dataIv": "5a9w6x58dsq6z3a6"
             }
         },
+
+        {
+            "key": "永乐影视",
+            "name": "永乐影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/YLYS.json"
+        },
+
+        {
+            "key": "1905",
+            "name": "1905影视",
+            "type": 3,
+            "api": "csp_Web1905",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+
+        {
+            "key": "漫国动漫",
+            "name": "漫国动漫",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppSy",
+            "ext": {
+                "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
+                "siteKey": "rectangleadsadxa",
+                "listKey": "aassddwwxxllsx1x",
+                "parsesKey": "aassddwwxxllsx1x"
+            }
+        },
+        {
+            "key": "方舟动漫",
+            "name": "方舟动漫",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.cyfz.top",
+                "dataKey": "e72cdfd629e8895d",
+                "dataIv": "e72cdfd629e8895d"
+            }
+        },
+ {
+            "key": "世界听书",
+            "name": "世界听书",
+            "type": 3,
+            "api": "csp_TingShijie",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "蜻蜓FM",
+            "name": "蜻蜓FM",
+            "type": 3,
+            "api": "csp_QingtingFM",
+            "style": {
+                "type": "list"
+            }
+        },
+
 {
             "key": "push_agent",
             "name": "推送",
@@ -225,9 +219,9 @@
     ],
     "lives": [
 {"name":"ysws","type":0,"ua": "okhttp","timeout":25,"changeable":0,"url":"http://heny8643.serv00.net/ysws.txt","epg":"https://epg.cdn.loc.cc?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png"},
-//{"name":"newit","type":0,"ua": "bingcha/1.1(mianfeifenxiang)","epg":"https://epg.cdn.loc.cc?ch={name}&date={date}","url":"https://iptv.gstory.cn/Cinetry"},
+
 {"name":"广东地方","type":0,"ua": "okhttp","playerType":1,"timeout":15,"changeable":0,"url":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/组播_广东电信.txt","epg":"https://epg.cdn.loc.cc?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
-//{"name":"jdshipin","type":0,"playerType":2,"ua":"okhttp","timeout": 15,"url":"http://heny8643.serv00.net/jdshipin.txt","epg":"https://epg.cdn.loc.cc?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
+
     ]
 }
 
