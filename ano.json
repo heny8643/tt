@@ -229,6 +229,10 @@
     ],
     "lives": [
 {"name":"ysws","type":0,"ua": "okhttp","timeout":25,"changeable":0,"url":"http://heny8643.serv00.net/ysws.txt","epg":"https://epg.cdn.loc.cc?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png"},
+{"name":"世界杯","type":0,"ua": "okhttp","timeout":25,"changeable":0,"url":"https://jsnzkpg.us.ci/live.m3u"},
+
+{ "name": "世界杯2","type":0, "timeout":25,"changeable":0,"url": "http://82.156.243.185:33389/fwc.m3u"},
+
 
 {"name":"广东地方","type":0,"ua": "okhttp","playerType":1,"timeout":15,"changeable":0,"url":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/组播_广东电信.txt","epg":"https://epg.cdn.loc.cc?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
 
