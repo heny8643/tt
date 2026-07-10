@@ -106,20 +106,7 @@
         },
 
 
-        {
-            "key": "王子",
-            "name": "王子",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://app.95112475.xyz",
-                "dataKey": "5a9w6x58dsq6z3a6",
-                "dataIv": "5a9w6x58dsq6z3a6"
-            }
-        },
-
+      
         {
             "key": "1905",
             "name": "1905影视",
@@ -140,20 +127,7 @@
             "filterable": 1,
             "genre": "shortdrama"
         },
-        {
-            "key": "漫国动漫",
-            "name": "漫国动漫",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppSy",
-            "ext": {
-                "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
-                "siteKey": "rectangleadsadxa",
-                "listKey": "aassddwwxxllsx1x",
-                "parsesKey": "aassddwwxxllsx1x"
-            }
-        },
-        {
+           {
             "key": "方舟动漫",
             "name": "方舟动漫",
             "type": 3,
