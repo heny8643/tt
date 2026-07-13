@@ -119,17 +119,6 @@
             "quickSearch": 0,
             "filterable": 0
         },
-   {
-            "key": "围观短剧",
-            "name": "围观短剧",
-            "type": 3,
-            "api": "csp_WeiguanDJ",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "genre": "shortdrama"
-        },
            {
             "key": "方舟动漫",
             "name": "方舟动漫",
