@@ -61,7 +61,6 @@
 {"key":"kulao枫叶影视","name":"❤枫叶","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"},
 {"key":"kulao看剧影视","name":"❤看剧","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py","ext":"http://43.248.117.123:4680"},
 {"key":"kulao文才影视","name":"❤文才","type":3,"api":"https://dogpan.com/f/P1jos3/文才.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"site":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"}},
-{"key":"kulao热播影视","name":"❤热播","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/热播APP.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60},
 {"key":"kulao独播JS","name":"❤独播丨JS","type":3,"api":"https://dogpan.com/f/R64pc5/独播库.js"},
 {"key":"kulao荐片JS","name":"❤荐片丨JS","type":3,"api":"https://mpimg.cn/down.php/16ba56f7ddd38134bb0725ad63f1f72b.js","style":{"type":"rect","ratio":1.33},"changeable":1},
 {"key":"kulao山楂","name":"❤山楂丨PY","type":3,"api":"https://dogpan.com/f/NxOrIj/山楂.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0},
