@@ -56,7 +56,7 @@
 {"key":"kulao热播影视","name":"❤热播","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/热播APP.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60},
 {"key":"kulao极影4K","name":"❤极影丨4K","type":3,"api":"https://dogpan.com/f/MjZntz/4K免扫码.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmsyun2.qijiyun.vip/api.php/app/"},
 {"key":"kulao枫叶4K","name":"❤枫叶丨4K","type":3,"api":"https://dogpan.com/f/O7gjCv/枫叶4K.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playable":1},
-{"key":"kulao瓜子影视","name":"❤瓜子","type":3,"api":"https://mpimg.cn/down.php/055f3cda37e9db69ab09a0857e7f9db8.py"},
+//{"key":"kulao瓜子影视","name":"❤瓜子","type":3,"api":"https://mpimg.cn/down.php/055f3cda37e9db69ab09a0857e7f9db8.py"},
 {"key":"kulao星辰影视","name":"❤星辰","type":3,"api":"http://rihou.cc:88/js/星辰影院.js"},
 {"key":"kulao枫叶影视","name":"❤枫叶","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"},
 {"key":"kulao看剧影视","name":"❤看剧","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py","ext":"http://43.248.117.123:4680"},
