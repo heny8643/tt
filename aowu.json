@@ -46,10 +46,10 @@
 {"name":"🎬围观|短剧","key":"Wgdj","type":3,"api":"csp_WgdjAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},
 {"name":"🎬喵喵|短剧","key":"Qmdj","type":3,"api":"csp_QmdjAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},
 {"name":"🎬星星|短剧","key":"Xydj","type":3,"api":"csp_XydjAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},
-{"name":"🏆瓜子","key":"GuaziLive","type":3,"api":"csp_GuaziLiveAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com"},
+{"name":"🏆瓜子看球","key":"GuaziLive","type":3,"api":"csp_GuaziLiveAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com"},
 {"name":"🏆飞球","key":"FeiqLive","type":3,"api":"csp_FeiqLiveAmns","searchable":1,"quickSearch":1,"changeable":0},
-{"name":"🏆88","key":"BbkqLive","type":3,"api":"csp_BbkqLiveAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw"},
-{"name":"🏆咖啡","key":"KafLive","type":3,"api":"csp_KafLiveAmns","searchable":0,"quickSearch":0,"changeable":0},
+{"name":"🏆88看球","key":"BbkqLive","type":3,"api":"csp_BbkqLiveAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw"},
+{"name":"🏆咖啡看球","key":"KafLive","type":3,"api":"csp_KafLiveAmns","searchable":0,"quickSearch":0,"changeable":0},
 {"name":"📖听书|富强","key":"TSty","type":3,"api":"csp_TStyAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"name":"📖听书|文明","key":"TStzg","type":3,"api":"csp_TStzgAmns","searchable":1,"quickSearch":1,"changeable":0},
 
