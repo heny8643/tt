@@ -37,9 +37,9 @@
 {"name":"🔗哔嘀","key":"Bidys","type":3,"api":"csp_BidysAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://v.xl01.eu.cc,https://xl02.com.de,https://v.xl02.eu.cc,https://v.xl01.cc.ua"},
 {"name":"🔗厂长","key":"Czzy","type":3,"api":"csp_CzzyAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":{"sites":"https://czzy.top,https://www.4kcz.com,https://www.cz4k.com","filters":""}},
 
-{"name":"🔥短剧推荐","key":"Hgdh","type":3,"api":"csp_HgdhAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://nos.netease.com/ysf/dac0101040005285380ee886e6e6c660.aowu"},
-{"name":"🎬嗷嗚|漫剧","key":"MjHggg","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"comic_series"},
-{"name":"🎬嗷嗚|短剧","key":"DjHggg","type":3,"api":"csp_HgggAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"short_play"},
+//{"name":"🔥短剧推荐","key":"Hgdh","type":3,"api":"csp_HgdhAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://nos.netease.com/ysf/dac0101040005285380ee886e6e6c660.aowu"},
+//{"name":"🎬嗷嗚|漫剧","key":"MjHggg","type":3,"api":"csp_HgggAmns","searchable":0,"quickSearch":0,"changeable":0,"ext":"comic_series"},
+//{"name":"🎬嗷嗚|短剧","key":"DjHggg","type":3,"api":"csp_HgggAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"short_play"},
 {"name":"🎬豪堪|短剧","key":"HHkk","type":3,"api":"csp_HHkkAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},
 {"name":"🎬盒马|短剧","key":"Hema","type":3,"api":"csp_HemaAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},
 {"name":"🎬拜拜|短剧","key":"Bddj","type":3,"api":"csp_BddjAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"shortdrama"},
