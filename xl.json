@@ -1,9 +1,9 @@
 {
-
+//    "spider": "https://oss4liview.moji.com/thd_file/2026/02/20/b5bb5a60fbb9b26fe6f59ac609fca9ce.jpg;md5;32091ed00f3c6bab72ba657bdc1599c8",
       "spider": "https://file.icve.com.cn/file_doc/625/810/9C7CAB7A3CF5E68B944BE17A450DA377.jpg;md5;9c7cab7a3cf5e68b944be17a450da377",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
-
+   
         {
             "key": "热播",
             "name": "📺热播",
@@ -40,7 +40,7 @@
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
         },
-        
+       
        {
             "key": "咕咕",
             "name": "🦉咕咕",
@@ -150,9 +150,7 @@
 
 { "name": "世界杯","type":0, "timeout":25,"changeable":0,"url": "http://82.156.243.185:33389/fwc.m3u"},
 
-
 {"name":"广东地方","type":0,"ua": "okhttp","playerType":1,"timeout":15,"changeable":0,"url":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/组播_广东电信.txt","epg":"https://epg.cdn.loc.cc?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
-
     ]
 }
 
