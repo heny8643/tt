@@ -1,7 +1,6 @@
 {
-//    "spider": "https://oss4liview.moji.com/thd_file/2026/02/20/b5bb5a60fbb9b26fe6f59ac609fca9ce.jpg;md5;32091ed00f3c6bab72ba657bdc1599c8",
-//      "spider": "https://file.icve.com.cn/file_doc/625/810/9C7CAB7A3CF5E68B944BE17A450DA377.jpg;md5;9c7cab7a3cf5e68b944be17a450da377",
 "spider":"https://zl.wpscdn.cn/2026/07/24/space_img/3320c877-40ef-40a5-ba62-9b8a8a52b169.jpg;md5;cefd44f999782ba92041856620bd5097",
+      
       "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
    
@@ -47,42 +46,27 @@
 {"key":"视界","name":"🌸茉莉","type":3,"api":"csp_App99Guard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="},
 {"key":"剧圈","name":"🐻剧圈","type":3,"api":"csp_AppSxGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1,"ext":"rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"},
 {"key":"荐片","name":"🥝荐片","type":3,"api":"csp_JPJGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":0},
-{"key":"厂长","name":"📔厂长","type":3,"api":"csp_NewCzGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+//{"key":"厂长","name":"📔厂长","type":3,"api":"csp_NewCzGuard","timeout":10,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"kulao热播影视","name":"❤热播","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/热播APP.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60},
-{"key":"kulao极影4K","name":"❤极影丨4K","type":3,"api":"https://dogpan.com/f/MjZntz/4K免扫码.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmsyun2.qijiyun.vip/api.php/app/"},
-{"key":"kulao枫叶4K","name":"❤枫叶丨4K","type":3,"api":"https://dogpan.com/f/O7gjCv/枫叶4K.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playable":1},
-//{"key":"kulao瓜子影视","name":"❤瓜子","type":3,"api":"https://mpimg.cn/down.php/055f3cda37e9db69ab09a0857e7f9db8.py"},
-{"key":"kulao星辰影视","name":"❤星辰","type":3,"api":"http://rihou.cc:88/js/星辰影院.js"},
-//{"key":"kulao枫叶影视","name":"❤枫叶","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"},
-{"key":"kulao看剧影视","name":"❤看剧","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py","ext":"http://43.248.117.123:4680"},
-{"key":"kulao文才影视","name":"❤文才","type":3,"api":"https://dogpan.com/f/P1jos3/文才.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"site":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"}},
-{"key":"kulao独播JS","name":"❤独播丨JS","type":3,"api":"https://dogpan.com/f/R64pc5/独播库.js"},
-{"key":"kulao荐片JS","name":"❤荐片丨JS","type":3,"api":"https://mpimg.cn/down.php/16ba56f7ddd38134bb0725ad63f1f72b.js","style":{"type":"rect","ratio":1.33},"changeable":1},
-//{"key":"kulao山楂","name":"❤山楂丨PY","type":3,"api":"https://dogpan.com/f/NxOrIj/山楂.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0},
-{"key":"kulao星芽短剧","name":"❤星芽丨短剧","type":3,"api":"https://dogpan.com/f/RglAh5/星芽.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
-//{"key":"kulao短剧JS","name":"❤短剧丨JS","type":3,"api":"https://mpimg.cn/down.php/93e0decefe3a2ad8949c5fe389d6cab2.js","style":{"type":"rect","ratio":1.33},"changeable":1},
+
+{"key":"kulao热播影视","name":"💮热播","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/热播APP.py","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60},
+{"key":"kulao极影4K","name":"💮极影丨4K","type":3,"api":"https://dogpan.com/f/MjZntz/4K免扫码.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cmsyun2.qijiyun.vip/api.php/app/"},
+{"key":"kulao枫叶4K","name":"💮枫叶丨4K","type":3,"api":"https://dogpan.com/f/O7gjCv/枫叶4K.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playable":1},
+//{"key":"kulao瓜子影视","name":"💮瓜子","type":3,"api":"https://mpimg.cn/down.php/055f3cda37e9db69ab09a0857e7f9db8.py"},
+//{"key":"kulao星辰影视","name":"💮星辰","type":3,"api":"http://rihou.cc:88/js/星辰影院.js"},
+//{"key":"kulao枫叶影视","name":"💮枫叶","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"},
+{"key":"kulao看剧影视","name":"💮看剧","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py","ext":"http://43.248.117.123:4680"},
+{"key":"kulao文才影视","name":"💮文才","type":3,"api":"https://dogpan.com/f/P1jos3/文才.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"site":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"}},
+
+{"key":"kulao独播JS","name":"💮独播丨JS","type":3,"api":"https://dogpan.com/f/R64pc5/独播库.js"},
+{"key":"kulao荐片JS","name":"💮荐片丨JS","type":3,"api":"https://mpimg.cn/down.php/16ba56f7ddd38134bb0725ad63f1f72b.js","style":{"type":"rect","ratio":1.33},"changeable":1},
+//{"key":"kulao山楂","name":"💮山楂丨PY","type":3,"api":"https://dogpan.com/f/NxOrIj/山楂.py","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0},
+{"key":"kulao星芽短剧","name":"💮星芽丨短剧","type":3,"api":"https://dogpan.com/f/RglAh5/星芽.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
+//{"key":"kulao短剧JS","name":"💮短剧丨JS","type":3,"api":"https://mpimg.cn/down.php/93e0decefe3a2ad8949c5fe389d6cab2.js","style":{"type":"rect","ratio":1.33},"changeable":1},
 
         
 //采集
-
-//{"key":"serv00-go","name":"短剧go","type":1,"api":"http://zhangqun1818.serv00.net/ww.php","searchable":1,"quickSearch":0,"changeable":0},
-
 {"key":"量子","name":"🛰️量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","playurl":"https://lziplayer.com/?url=","searchable":1,"changeable":1,"categories":["国产剧","欧美剧","韩国剧","台湾剧","香港剧","日本剧","日本动漫","欧美动漫","国产动漫","动画片","纪录片","大陆综艺","港台综艺","动作片","爱情片","喜剧片","科幻片","恐怖片","战争片"]},
-
-        {
-            "key": "有声小说",
-            "name": "🎧有声小说",
-            "type": 3,
-            "api": "csp_Tingshu275Guard",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
 
         {
             "key": "看球",
@@ -147,4 +131,3 @@
 {"name":"广东地方","type":0,"ua": "okhttp","playerType":1,"timeout":15,"changeable":0,"url":"https://gh.jasonzeng.dev/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/组播_广东电信.txt","epg":"https://epg.cdn.loc.cc?ch={name}&date={date}","logo":"https://reala.deno.dev/logo/{name}.png","boot":false}
     ]
 }
-
