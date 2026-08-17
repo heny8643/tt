@@ -1,10 +1,6 @@
 
 {
-//"spider":"https://nos.netease.com/ysf/0589efa17c35af5babb01f6fcfc83abc.png;md5;065ee07e71679d9c273e18fab401f0c0",
-
-//"spider":"./嗷呜0723.jar;md5;065ee07e71679d9c273e18fab401f0c0",
-"spider": "https://cdn.waimaimingtang.com/file/images/bwc/20260803200354-098475bd93.png;md5;1903b74bd16bee2258ed1ba164ebc483",
-
+  "spider": "https://nos.netease.com/ysf/648866e65bfbae8010145f8abcc12f5f.png;md5;e43bbee3ea80d065623f8259025ad78e",
 //"logo":"https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
 //"danmaku":"http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
 //"wallpaper":"http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
