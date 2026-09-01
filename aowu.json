@@ -12,8 +12,8 @@
 {"name":"🧩荐片","key":"JPian","type":3,"api":"csp_JPianAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://nos.netease.com/youdata-netease/public-utilUpload-ky1PAyMa8zMhSwSbYeoej9.gz"},
 {"name":"🧩杜北","key":"Dubk","type":3,"api":"csp_DubkAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://nos.netease.com/youdata-netease/public-utilUpload-dETsDhhkydVym6T7qzn7WB.gz"},
 {"name":"🧩伊外","key":"YIys","type":3,"api":"csp_YIysAmns","searchable":1,"quickSearch":1,"changeable":0},
-
-    {
+{"key":"qs音乐","name":"qs音乐","type":3,"api":"csp_WebHome","jar":"./webhome.jar","jar":"./webhome.jar","ext":"https://i.webos.im/","searchable":0,"changeable":0},
+  {
       "name": "⭐夏天┃秒播",
       "key": "NewGrV2",
       "type": 3,
