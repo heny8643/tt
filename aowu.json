@@ -1,9 +1,6 @@
 
 {
-    "spider": "https://nos.netease.com/ysf/fa273578c0dc287266bd5dce5eae7082.png;md5;249047fab983b2fe5d716c2ea80a3c47",
- //"logo":"https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
-//"danmaku":"http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
-//"wallpaper":"http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
+    "spider": "./aowu0907.jar;md5;249047fab983b2fe5d716c2ea80a3c47",
 
 "sites":[
 //{"name":"🧩热播","key":"Rbys","type":3,"api":"csp_RbysAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://v.rbotv.cn"},
